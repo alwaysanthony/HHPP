@@ -23,6 +23,14 @@ Henry Hawgood
 Jose Espinosa-Tello
 Samantha Neal
 
+## Communication Protocols
+
+Each member will work in their own branch and pull requests will be reviewed by Anthony.
+
+We will use PostgreSQL to set up our database. From here our ML model will be able to take in data and predict prices.
+
+
+
 
 
 
