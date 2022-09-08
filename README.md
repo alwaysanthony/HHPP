@@ -15,6 +15,14 @@ Our housing price data will come from Zillow and we will also use census data to
 We chose this topic because one of our group members is in the market for a new house and wants to make a smart decision.
 We will also be able to determine what variables have the most effect on the price of houses.
 
+## Group members
+
+Ashle Mercer
+Anthony Nguyen
+Henry Hawgood
+Jose Espinosa-Tello
+Samantha Neal
+
 
 
 
