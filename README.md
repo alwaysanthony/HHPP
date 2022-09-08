@@ -4,7 +4,7 @@
 
 ## Topic
 
-Using ML models, we will be able to predict the price of a house in Houston. This will help a purchaser decide on a house to buy or an area to move to.
+Using Machine Learning models, we will be able to predict the price of a house in Houston. This will help a purchaser decide on a house to buy or an area to move to.
 
 ## Data
 
