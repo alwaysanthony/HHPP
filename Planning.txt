@@ -22,3 +22,5 @@ Amazon S3 SQL Table
 -- ML Model
 Simple scikit-learn LinReg using the data collected as inputs, and Property Price as the target variable
 
+-- Visualization
+Tableau & Website allowing you to enter a property, and which spit out an expected property value
