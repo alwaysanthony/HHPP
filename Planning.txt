@@ -15,3 +15,10 @@ Scrape Zillow Data
 Compile Super Neighborhood Data
 Label Zillow Data w/ Super Neighborhood Key
 JOIN on Super Neighborhood Keys
+
+-- Data Storage
+Amazon S3 SQL Table
+
+-- ML Model
+Simple scikit-learn LinReg using the data collected as inputs, and Property Price as the target variable
+
