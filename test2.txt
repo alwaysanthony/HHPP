@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+This is another test.
+=======
+test
+>>>>>>> main
+
