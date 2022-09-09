@@ -1,0 +1,11 @@
+-- Data to Collect
+Super Neighborhood
+Median Household Income (By Super Neighborhood)
+Rural/Suburban/Urban
+Number of Bedrooms
+Single Family vs Multi-Family
+Population
+Zillow Walk Score
+Zillow Transit Score
+Zillow Bike Score
+Property Price
