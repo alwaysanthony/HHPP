@@ -9,3 +9,9 @@ Zillow Walk Score
 Zillow Transit Score
 Zillow Bike Score
 Property Price
+
+-- Data Cleaning
+Scrape Zillow Data
+Compile Super Neighborhood Data
+Label Zillow Data w/ Super Neighborhood Key
+JOIN on Super Neighborhood Keys
