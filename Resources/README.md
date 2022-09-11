@@ -25,11 +25,11 @@ Your connection is now complete
 
 ## Group members
 
-Ashle Mercer
-Anthony Nguyen
-Henry Hawgood
-Jose Espinosa-Tello
-Samantha Neal
+- Ashle Mercer
+- Anthony Nguyen
+- Henry Hawgood
+- Jose Espinosa-Tello
+- Samantha Neal
 
 
 
