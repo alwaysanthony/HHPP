@@ -10,7 +10,7 @@ hhpp-db.cib8i0dtf6rx.us-east-1.rds.amazonaws.com
 
 Login to pgadmin and click "Add New Server"
 
-![add](https://github.com/JoseEspinosaTello/Amazon_Vine_Analysis/blob/main/Resources/paid_review.png)
+![add](https://github.com/alwaysanthony/HHPP/blob/Jose/Resources/add.png)
 
 ## Group members
 
