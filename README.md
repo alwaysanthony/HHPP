@@ -25,6 +25,8 @@ as provided by Houston's city website (https://www.houstontx.gov/planning/Demogr
 
 The remainder of the data will be gathered from Zillow's database of for-sale homes in Houston, TX as retrieved from the Zillow data/research page (https://www.zillow.com/research/data/).
 
+The placing of these properties into their respective super neighborhoods will be accomplished through a pipeline which utilizes GIS representations of Super Neighborhood boundaries from the 2010 census, which upon checking, is still relevant and accurate to their contemporary states (https://koordinates.com/layer/12942-houston-texas-census-by-super-neighborhood-2010/)
+
 ## Questions we can answer
 
 With this data, we will be able to determine which input factors are most correlated/impactful vis-a-vis final property price, as well as which locales and property characteristics are ideal for purchasing a new property in Houston, TX.
