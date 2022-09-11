@@ -14,9 +14,10 @@ Login to pgadmin and click "Add New Server"
 Add Name "AWS"
 ![name](https://github.com/alwaysanthony/HHPP/blob/Jose/Resources/images/name.png)
 
-Click connection and paste the copied Endpoint URL.
+Click "Connection" tab and paste the copied Endpoint URL.
 - Port:5432
 - Password: Provided seperatly
+
 ![url](https://github.com/alwaysanthony/HHPP/blob/Jose/Resources/images/url.png)
 
 Your connection is now complete
