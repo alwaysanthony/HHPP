@@ -4,7 +4,9 @@
 
 ### Database link
 
-hhpp-db.cib8i0dtf6rx.us-east-1.rds.amazonaws.com
+example: east-1.rds.amazonaws.com
+
+Full link provided seperatly.
 
 ## Create AWS Postgres connection
 
