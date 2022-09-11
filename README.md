@@ -1,16 +1,19 @@
-# HHPP - Connect to Database
+# HHPP
 
-## Create a connection to the AWS database using Postgres
+### Houston House Price Prediction
 
-### Database link
+## Topic
 
-hhpp-db.cib8i0dtf6rx.us-east-1.rds.amazonaws.com
+Using Machine Learning models, we will be able to predict the price of a house in Houston. This will help a purchaser decide on a house to buy or an area to move to.
 
-## Create AWS Postgres connection
+## Data
 
-Login to pgadmin and click "Add New Server"
+Our housing price data will come from Zillow and we will also use census data to determine population and median income.
 
-![add](https://github.com/alwaysanthony/HHPP/blob/Jose/Resources/add.png)
+## Questions we can answer
+
+We chose this topic because one of our group members is in the market for a new house and wants to make a smart decision.
+We will also be able to determine what variables have the most effect on the price of houses.
 
 ## Group members
 
