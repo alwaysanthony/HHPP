@@ -1,0 +1,11 @@
+Median Household Income by Super Neighborhood
+https://www.houstontx.gov/planning/Demographics/docs_pdfs/SN/Median-Household-Income.pdf
+
+Super Neighborhood GIS
+https://koordinates.com/layer/12942-houston-texas-census-by-super-neighborhood-2010/
+
+Super Neighborhood Demographic Data
+https://www.houstontx.gov/planning/Demographics/super_neighborhoods.html
+
+Zillow Housing Data
+https://www.zillow.com/research/data/

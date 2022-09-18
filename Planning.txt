@@ -1,0 +1,27 @@
+-- Data to Collect
+Super Neighborhood
+Median Household Income (By Super Neighborhood)
+Rural/Suburban/Urban
+Number of Bedrooms
+Square Footage
+Single Family vs Multi-Family
+Population
+Zillow Walk Score
+Zillow Transit Score
+Zillow Bike Score
+Property Price
+
+-- Data Cleaning
+Scrape Zillow Data
+Compile Super Neighborhood Data
+Label Zillow Data w/ Super Neighborhood Key
+JOIN on Super Neighborhood Keys
+
+-- Data Storage
+Amazon S3 SQL Table
+
+-- ML Model
+Simple scikit-learn LinReg using the data collected as inputs, and Property Price as the target variable
+
+-- Visualization
+Tableau & Website allowing you to enter a property, and which spit out an expected property value
