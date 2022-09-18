@@ -23,7 +23,7 @@ The data we will be performing analysis on, and which we will use as ML model in
 Data regarding Super Neighborhoods will come from the Houston, TX 2015 Census data, and the follow on demographic descriptions of each Super Neighborhood
 as provided by Houston's city website (https://www.houstontx.gov/planning/Demographics/docs_pdfs/SN/Median-Household-Income.pdf).
 
-The remainder of the data will be gathered from Zillow's database of for-sale homes in Houston, TX as retrieved from the Zillow data/research page (https://www.zillow.com/research/data/).
+The remainder of the data will be gathered by scraping the Zillow listings website for all relevant information. The scraping code is included in the repo.
 
 The placing of these properties into their respective super neighborhoods will be accomplished through a pipeline which utilizes GIS representations of Super Neighborhood boundaries from the 2010 census, which upon checking, is still relevant and accurate to their contemporary states (https://koordinates.com/layer/12942-houston-texas-census-by-super-neighborhood-2010/)
 
