@@ -3,6 +3,7 @@ Super Neighborhood
 Median Household Income (By Super Neighborhood)
 Rural/Suburban/Urban
 Number of Bedrooms
+Square Footage
 Single Family vs Multi-Family
 Population
 Zillow Walk Score
