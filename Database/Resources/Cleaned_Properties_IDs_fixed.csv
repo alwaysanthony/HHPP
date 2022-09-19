@@ -1,0 +1,946 @@
+,id,address,price,type,bed,sqft,walk,transit,bike
+0,80,"4031 Wilderness Falls Trl, Humble, TX 77339",369900,Single family residence,2,2395,53,0,47
+1,40,"19410 Leafwood Ln, Houston, TX 77084",220000,Single family residence,3,1384,34,0,52
+2,0,"13219 Liliana Glen Ln, Houston, TX 77044",242500,Single family residence,3,1597,8,0,26
+3,0,"13219 Liliana Glen Ln, Houston, TX 77014",129900,Ranch,3,1170,11,25,28
+4,17,"4959 Culmore Dr, Houston, TX 77021",345000,Single family residence,4,1925,50,54,56
+5,0,"13219 Liliana Glen Ln, Houston, TX 77008",260000,Single family residence,3,1296,75,43,60
+6,62,"803 Martin Rd A, Houston, TX 77018",449900,Single family residence,3,1861,39,47,43
+7,77,"1806 Royal Fern Ct, Houston, TX 77062",1089500,Single family residence,5,5456,24,0,44
+8,85,"5850 Petty St, Houston, TX 77007",495000,Single family residence,4,2611,38,39,41
+9,0,"5606 Champions Glen Dr, Houston, TX 77069",369500,Single family residence,3,2794,16,0,30
+11,84,"1000 Kirby Dr, Houston, TX 77019",15995000,Single family residence,10,22880,34,46,61
+14,0,"7138 Hollow Cedar Dr, Houston, TX 77049",306000,Single family residence,5,3159,18,0,32
+15,39,"6215 Maywood Forest Dr, Houston, TX 77088",255000,Single family residence,3,1990,31,33,34
+16,46,"4948 Leeland St, Houston, TX 77023",429900,Single family residence,2,1546,79,57,66
+17,0,"14042 Coveney Dr, Houston, TX 77090",300000,Single family residence,4,2905,15,24,28
+18,80,"3603 Glenwood Springs Dr, Kingwood, TX 77345",260000,Single family residence,4,2143,21,0,42
+19,17,"3915 Daphne St, Houston, TX 77021",157000,Ranch,2,1300,63,49,53
+20,37,"4508 Old Yale St G, Houston, TX 77018",369900,Single family residence,3,1574,53,47,73
+21,80,"2807 Sandberry Dr, Kingwood, TX 77345",279000,Single family residence,3,1964,45,0,36
+22,45,"306 Fellows Rd, Houston, TX 77047",225000,Single family residence,3,2096,20,0,31
+23,61,"5506 Willowbend Blvd, Houston, TX 77096",529999,Single family residence,3,2270,35,34,37
+24,39,"7719 Woodsman Trl, Houston, TX 77040",220000,Single family residence,3,1243,12,0,29
+25,0,"11811 Cassia Cir, Houston, TX 77065",475000,Single family residence,5,3700,12,0,28
+26,68,"1912 Courtney Lane Dr, Houston, TX 77042",275000,Single family residence,3,1471,71,35,64
+27,65,"5635 Teague Rd, Houston, TX 77041",247000,Single family residence,3,1152,50,38,41
+28,72,"1810 Lula St, Houston, TX 77009",380000,Single family residence,2,1060,53,53,59
+30,0,"15818 Crystal Brook Dr, Houston, TX 77068",349900,Single family residence,4,3174,11,0,41
+32,51,"21211 Tancah Ln, Houston, TX 77073",275000,Single family residence,5,3096,31,27,34
+33,68,"1515 Sandy Springs Rd 2605, Houston, TX 77042",160000,Townhouse,2,1225,58,32,57
+34,78,"615 W Drew St, Houston, TX 77006",324500,Townhouse,2,1122,88,59,74
+35,0,"2835 Hackamore Hollow Ln, Houston, TX 77014",224900,Townhouse,3,1683,19,27,29
+36,85,"5450 Crooms St, Houston, TX 77007",430000,Townhouse,3,2217,73,45,45
+37,85,"915 E Heights Hollow Ln, Houston, TX 77007",350000,Townhouse,2,1644,78,49,75
+38,82,"176 Litchfield Ln, Houston, TX 77024",399900,Townhouse,3,3770,46,39,30
+39,82,"246 Litchfield Ln, Houston, TX 77024",330000,Townhouse,2,1701,43,39,26
+40,72,"1727 Stacy Crst, Houston, TX 77008",399900,Townhouse,3,2510,62,35,54
+41,27,"6435 W Linpar Ct, Houston, TX 77040",280000,Townhouse,3,2278,40,30,36
+42,35,"6633 W Airport Blvd APT 101, Houston, TX 77035",125000,Townhouse,2,1584,54,41,40
+43,70,"2940 Meadowgrass Ln, Houston, TX 77082",180000,Townhouse,3,1480,36,38,40
+44,0,"16800 Sugar Pine Dr APT B15, Houston, TX 77090",139990,Townhouse,2,1476,48,32,41
+45,85,"185 Asbury St, Houston, TX 77007",439900,Townhouse,2,2242,69,44,37
+46,66,"10000 Westview Dr 6, Houston, TX 77055",159900,Townhouse,2,1324,66,45,56
+47,20,"7910 Grove Ridge Dr 7, Houston, TX 77061",90000,Townhouse,2,1122,56,46,52
+48,88,"2417 Dorrington St UNIT B, Houston, TX 77030",585000,Townhouse,3,2710,85,65,90
+49,53,"2968 Gessner Rd, Houston, TX 77080",277500,Townhouse,5,2888,69,40,61
+50,9,"9706 Farragut St, Houston, TX 77078",129000,Townhouse,3,1104,3,35,29
+51,82,"15151 Kimberley Ct 34, Houston, TX 77079",350000,Townhouse,4,2152,57,32,72
+52,28,"2358 Commerce St, Houston, TX 77003",424900,Townhouse,3,2050,67,69,76
+53,79,"1117 Buckner St, Houston, TX 77019",369000,Townhouse,2,1800,80,89,78
+54,76,"2600 Nantucket Dr C, Houston, TX 77057",374900,Townhouse,3,1845,83,50,50
+55,86,"3330 Las Palmas St APT 22, Houston, TX 77027",297000,Townhouse,2,1302,75,52,53
+56,70,"1022 Enclave Sq N, Houston, TX 77077",337800,Townhouse,3,2033,61,32,73
+57,48,"9850 Pagewood Ln APT 1808, Houston, TX 77042",166000,Townhouse,2,1520,59,49,53
+58,0,"9123 Monarch Mist Ln, Houston, TX 77070",283000,Townhouse,3,2030,44,0,45
+59,82,"14333 Memorial Dr APT 5, Houston, TX 77079",220000,Townhouse,3,1840,79,27,60
+60,35,"6633 W Airport Blvd 309, Houston, TX 77035",110000,Townhouse,2,1305,54,41,40
+61,76,"2625 Marilee Ln APT 1, Houston, TX 77057",149000,Townhouse,2,916,69,50,50
+62,78,"1101 Missouri St, Houston, TX 77006",620000,Townhouse,3,3032,94,52,77
+63,81,"7350 Kirby Dr APT 11, Houston, TX 77030",299000,Townhouse,2,1747,73,55,92
+64,76,"2505 Bering Dr UNIT 9, Houston, TX 77057",199999,Townhouse,1,1116,69,49,53
+65,35,"12247 Lemon Ridge Ln 122, Houston, TX 77035",131900,Townhouse,3,1244,50,40,41
+66,82,"12625 Memorial Dr APT 56, Houston, TX 77024",319900,Townhouse,3,1701,53,34,50
+67,34,"8320 Wild Rose St APT 15B, Houston, TX 77083",120000,Townhouse,2,1198,38,41,39
+68,85,"5110 Eigel St, Houston, TX 77007",475000,Townhouse,3,2681,84,45,52
+69,0,"3413 Robin Rose Ln, Houston, TX 77080",410000,Townhouse,3,1925,3,32,28
+70,64,"1305 Mayfair Clarkson Ln, Houston, TX 77055",485000,Townhouse,3,2364,28,48,51
+71,76,"8618 La Fonte St, Houston, TX 77024",625000,Townhouse,3,2772,35,60,49
+72,0,"14515 Wunderlich Dr UNIT 315, Houston, TX 77069",155000,Townhouse,2,1331,11,26,31
+73,85,"6602 Wanita Pl A, Houston, TX 77007",1375000,Townhouse,4,3859,55,38,48
+74,85,"234 Detering St, Houston, TX 77007",500000,Townhouse,3,2348,74,47,58
+75,85,"4306 Center St, Houston, TX 77007",599000,Townhouse,4,2462,77,49,58
+76,70,"13932 Hollowgreen Dr 26, Houston, TX 77082",166999,Townhouse,2,1254,56,32,44
+77,78,"306 Fargo St, Houston, TX 77006",429900,Townhouse,3,2535,79,66,68
+78,78,"2204 Whitney St, Houston, TX 77006",599000,Townhouse,3,2394,88,59,74
+79,68,"1615 Prairie Mark Ln, Houston, TX 77077",215000,Townhouse,2,1460,25,33,56
+80,68,"11201 Lynbrook Dr APT 3202, Houston, TX 77042",170000,Townhouse,2,1225,53,35,57
+81,78,"1010 Columbus St, Houston, TX 77019",450000,Townhouse,2,1968,86,50,64
+82,23,"12215 W Village Dr UNIT A, Houston, TX 77039",114900,Townhouse,2,1135,37,34,44
+83,72,"2114 Stacy Gln, Houston, TX 77008",450000,Townhouse,4,2551,62,36,54
+84,86,"4229 Purdue St APT 2, Houston, TX 77005",550000,Townhouse,3,2222,65,44,62
+85,34,"13102 Cressida Glen Ln, Houston, TX 77072",219900,Townhouse,3,1729,30,44,36
+86,84,"2427 Kingston St 2527, Houston, TX 77019",545000,Townhouse,3,2512,90,51,61
+87,54,"7604 Del Monte Dr, Houston, TX 77063",457000,Townhouse,3,2558,72,44,49
+88,44,"3238 Holly Hall St, Houston, TX 77054",210000,Townhouse,2,1600,19,38,44
+89,70,"607 Sierra Breeze, Houston, TX 77094",388500,Townhouse,3,2183,26,0,42
+90,85,"5507 Darling St, Houston, TX 77007",469500,Townhouse,3,2348,61,41,43
+91,82,"26 Sugarberry Cir, Houston, TX 77024",750000,Townhouse,3,3137,18,33,20
+92,69,"2919 Helena St, Houston, TX 77006",438000,Townhouse,2,2602,91,73,69
+93,85,"6308 Taggart St B, Houston, TX 77007",635000,Townhouse,3,2656,74,41,54
+94,76,"6434 Burgoyne Rd 109, Houston, TX 77057",329000,Townhouse,3,1804,63,48,48
+95,34,"3970 Belle Park Dr 3970, Houston, TX 77072",215000,Townhouse,3,1664,29,27,38
+96,85,"403 Roy St, Houston, TX 77007",480000,Townhouse,2,2032,80,48,66
+97,82,"14662 Perthshire Rd APT D, Houston, TX 77079",269900,Townhouse,3,1978,74,32,50
+98,34,"8122 Singing Sonnet Ln, Houston, TX 77072",239900,Townhouse,3,1751,29,43,38
+99,85,"503 Detering St, Houston, TX 77007",480000,Townhouse,3,2424,82,46,60
+100,68,"600 Wilcrest Dr APT 28, Houston, TX 77042",250000,Townhouse,2,1864,36,25,49
+101,34,"12720 Dairy Brook Dr, Houston, TX 77099",190000,Townhouse,3,1517,59,41,50
+102,71,"3316 Timbergrove Heights St, Houston, TX 77008",579900,Townhouse,3,2278,32,35,42
+103,76,"2313 Nantucket Dr B, Houston, TX 77057",450000,Townhouse,3,2228,78,46,50
+104,54,"5907 Winsome Ln C, Houston, TX 77057",759000,Townhouse,3,2758,85,50,64
+105,76,"5214 Sagecircle St S, Houston, TX 77056",649900,Townhouse,4,2993,66,55,47
+106,76,"5211 Sagecircle St N, Houston, TX 77056",657000,Townhouse,3,3000,66,55,47
+107,82,"14704 Perthshire Rd UNIT A, Houston, TX 77079",275000,Townhouse,3,1978,58,29,51
+109,7,"805 Bringhurst St, Houston, TX 77020",515000,Townhouse,3,2169,37,43,52
+110,84,"2121 Kirby Dr UNIT 33, Houston, TX 77019",10500000,Condominium,4,12827,79,48,55
+111,67,"1211 Caroline St UNIT 1903, Houston, TX 77002",1650000,Condominium,3,2579,90,88,64
+112,70,"2355 Briarwest Blvd, Houston, TX 77077",192000,Townhouse,3,1370,51,45,54
+113,35,"12500 Sandpiper Dr APT 183, Houston, TX 77035",68000,Townhouse,2,966,49,41,43
+114,69,"3501 Chenevert St APT 17, Houston, TX 77004",315000,Townhouse,3,1507,70,62,76
+115,86,"2829 Timmons Ln APT 120, Houston, TX 77027",290000,Townhouse,2,1226,78,48,50
+116,88,"2203 Dorrington St APT 407, Houston, TX 77030",299000,Condominium,2,1158,77,73,99
+117,61,"5217 Arboles Dr A, Houston, TX 77035",130000,Townhouse,2,1394,55,42,43
+118,16,"17202 Imperial Valley Dr APT 20, Houston, TX 77060",79900,Townhouse,1,872,57,53,68
+119,75,"2001 Holcombe Blvd UNIT 305, Houston, TX 77030",320000,Condominium,2,1250,47,59,88
+120,76,"8221 Kingsbrook Rd APT 209, Houston, TX 77024",175000,Townhouse,2,1052,49,35,43
+121,54,"2100 Tanglewilde St APT 211, Houston, TX 77063",148000,Townhouse,2,1200,51,43,46
+122,87,"5104 Caroline St 502, Houston, TX 77004",1250000,Condominium,2,2673,81,65,81
+123,86,"4041 Law St APT 405, Houston, TX 77005",227000,Townhouse,2,1042,81,44,63
+124,63,"5925 Almeda Rd UNIT 12113, Houston, TX 77004",235800,Townhouse,1,748,66,52,69
+125,52,"6410 Ferris Dr APT 22, Houston, TX 77081",215000,Townhouse,2,1120,76,50,54
+126,86,"2120 Kipling St APT 203, Houston, TX 77098",425000,Condominium,2,1636,92,52,69
+127,82,"12633 Memorial Dr APT 90, Houston, TX 77024",235000,Townhouse,2,1389,32,37,35
+128,86,"15 Greenway Plz PENTHOUSE 27A, Houston, TX 77046",1299000,Condominium,3,3017,82,46,57
+129,88,"2520 Robinhood St APT 804, Houston, TX 77005",419000,Condominium,2,1614,87,46,70
+130,84,"2047 Westcreek Ln 708, Houston, TX 77027",998500,Condominium,2,1630,66,52,51
+131,67,"1211 Caroline St UNIT 1003, Houston, TX 77002",486000,Condominium,2,1178,90,88,64
+132,39,"5625 Antoine Dr 607, Houston, TX 77092",45000,Townhouse,1,725,58,40,49
+133,67,"2205 McKinney St APT 306, Houston, TX 77003",215000,Condominium,1,822,82,88,70
+134,67,"914 Main St UNIT 1201, Houston, TX 77002",1495000,Condominium,3,3739,95,88,62
+135,84,"21 Briar Hollow Ln UNIT 504, Houston, TX 77027",300000,Condominium,2,1464,60,47,48
+136,35,"12500 Sandpiper Dr APT 200, Houston, TX 77035",75000,Townhouse,2,966,49,41,43
+137,44,"2300 Old Spanish Trl APT 1062, Houston, TX 77054",155000,Townhouse,2,815,50,49,63
+138,76,"1616 Fountain View Dr APT 611, Houston, TX 77057",1150000,Condominium,3,3170,76,37,61
+139,44,"2300 Old Spanish Trl APT 2093, Houston, TX 77054",160000,Townhouse,1,907,50,49,63
+140,76,"9333 Memorial Dr APT 216, Houston, TX 77024",329000,Condominium,2,1599,45,45,41
+141,75,"2001 Holcombe Blvd UNIT 406, Houston, TX 77030",398500,Condominium,3,1649,47,59,88
+142,78,"1201 McDuffie St UNIT 198, Houston, TX 77019",399000,Townhouse,2,1300,83,43,68
+143,34,"8405 Wilcrest Dr APT 1203, Houston, TX 77072",99900,Townhouse,2,834,43,44,41
+144,76,"1600 Post Oak Blvd UNIT 1605, Houston, TX 77056",985000,Condominium,3,1952,90,49,50
+145,76,"1901 Post Oak Blvd APT 1114, Houston, TX 77056",319000,Condominium,1,869,89,52,50
+146,14,"7520 Hornwood Dr 15, Houston, TX 77036",110000,Condominium,2,1114,72,49,51
+147,76,"3030 Post Oak Blvd UNIT 413, Houston, TX 77056",1299000,Condominium,2,3388,74,53,53
+148,76,"361 N Post Oak Ln APT 144, Houston, TX 77024",169999,Townhouse,1,1092,26,55,61
+149,14,"6701 Sands Point Dr APT 55, Houston, TX 77074",186000,Townhouse,2,1010,50,51,50
+150,82,"1077 Country Place Dr, Houston, TX 77079",230000,Townhouse,3,2024,57,25,47
+151,39,"5625 Antoine Dr APT 202, Houston, TX 77091",56000,Townhouse,1,725,58,40,49
+152,86,"14 Greenway Plz UNIT 16Q, Houston, TX 77046",359000,Condominium,2,1681,82,52,64
+153,76,"3525 Sage Rd APT 908, Houston, TX 77056",159500,Condominium,1,794,61,55,47
+154,34,"10555 Turtlewood Ct UNIT 1110, Houston, TX 77072",139995,Townhouse,2,978,46,43,60
+155,67,"2205 McKinney St APT 515, Houston, TX 77003",350000,Condominium,1,1097,82,88,70
+157,76,"3505 Sage Rd UNIT 806, Houston, TX 77056",269000,Condominium,2,1196,64,55,47
+158,76,"5711 Sugar Hill Dr APT 94, Houston, TX 77057",130000,Townhouse,1,828,59,36,56
+159,84,"49 Briar Hollow Ln UNIT 406, Houston, TX 77027",349900,Condominium,2,1753,58,34,56
+160,34,"6955 Turtlewood Dr 605, Houston, TX 77072",351750,Townhouse,1,674,59,41,67
+161,0,"9029 Gaylord Dr APT 124, Houston, TX 77024",129000,Townhouse,1,672,52,28,41
+162,81,"2601 Bellefontaine St APT C202, Houston, TX 77025",120000,Townhouse,1,744,82,55,92
+163,15,"201 W Rosamond St APT 22, Houston, TX 77076",101700,Townhouse,2,888,51,41,37
+164,76,"6417 Bayou Glen Rd, Houston, TX 77057",225000,Townhouse,2,981,38,32,45
+167,50,"2820 S Bartell Dr APT 211, Houston, TX 77054",80000,Townhouse,1,780,52,35,45
+168,78,"220 Avondale St, Houston, TX 77006",679000,Townhouse,3,2808,78,72,73
+169,64,"6804 Westview Dr 1105, Houston, TX 77055",413436,Condominium,2,1529,54,41,54
+170,76,"5100 San Felipe St UNIT 253, Houston, TX 77056",465000,Condominium,1,1729,88,49,52
+171,84,"4521 San Felipe St UNIT 1203, Houston, TX 77027",825000,Condominium,2,1573,74,51,50
+172,34,"6955 Turtlewood Dr UNIT 602, Houston, TX 77072",460000,Townhouse,2,1019,59,41,67
+173,15,"201 W Rosamond St APT 16, Houston, TX 77076",101700,Townhouse,2,888,51,41,37
+174,48,"10855 Meadowglen Ln APT 722, Houston, TX 77042",135000,Townhouse,2,889,60,49,44
+175,44,"2300 Old Spanish Trl APT 2094, Houston, TX 77054",155000,Townhouse,1,838,50,49,63
+176,34,"6955 Turtlewood Dr 207, Houston, TX 77072",388500,Townhouse,2,1210,59,41,67
+177,15,"201 W Rosamond St APT 50, Houston, TX 77076",120900,Townhouse,2,1056,51,41,37
+178,76,"3525 Sage Rd APT 1517, Houston, TX 77056",665000,Condominium,3,2661,61,55,47
+179,77,"1516 Bay Area Blvd APT Q2, Houston, TX 77058",119900,Townhouse,2,988,55,0,67
+180,64,"6804 Westview Dr 2106, Houston, TX 77055",451273,Condominium,2,1869,54,41,54
+181,82,"150 Gessner Rd UNIT 7D, Houston, TX 77024",475000,Condominium,2,1865,35,41,36
+182,76,"5110 San Felipe St UNIT 141, Houston, TX 77056",610000,Condominium,2,2030,85,44,55
+183,34,"6955 Turtlewood Dr 520, Houston, TX 77072",252000,Townhouse,1,640,59,41,67
+184,76,"5555 Del Monte Dr UNIT 2303, Houston, TX 77056",530000,Condominium,2,2730,68,51,57
+185,86,"3433 Westheimer Rd 405, Houston, TX 77027",2650000,Condominium,2,2853,69,48,48
+186,50,"8521 Hearth Dr APT 2, Houston, TX 77054",85900,Townhouse,2,1092,48,35,45
+187,34,"10555 Turtlewood Ct UNIT 1601, Houston, TX 77072",165000,Townhouse,2,1093,46,43,60
+188,76,"5656 San Felipe St 1003, Houston, TX 77056",1895000,Condominium,2,2030,72,42,57
+189,76,"5656 San Felipe St 1601, Houston, TX 77056",3845000,Condominium,3,3067,72,42,57
+190,84,"2047 Westcreek Ln UNIT 701, Houston, TX 77027",1100000,Condominium,2,1931,66,52,51
+191,76,"5656 San Felipe St 601, Houston, TX 77056",2095000,Condominium,3,2509,72,42,57
+192,76,"1600 Post Oak Blvd UNIT 902, Houston, TX 77056",1035000,Condominium,3,2735,90,49,50
+193,49,"10810 Telephone Rd TRAILER 433, Houston, TX 77075",70000,Manufactured home,3,1792,27,0,32
+194,20,"7702 Moline St, Houston, TX 77087",210000,Manufactured home,3,1795,63,40,59
+195,0,"14630 Texarkana St, Houston, TX 77015",249900,Manufactured home,4,1768,57,0,38
+196,0,"14203 Coveney Dr, Houston, TX 77090",292800,Manufactured home,4,2683,12,23,30
+197,0,"855 Gateside Dr, Houston, TX 77032",169888,Manufactured home,4,1760,9,30,28
+198,9,"9426 Grand Isle Ct, Houston, TX 77044",70000,Manufactured home,3,1280,5,14,26
+199,30,"989 Ringold St, Houston, TX 77088",363000,Manufactured home,3,1476,43,41,35
+200,0,"14003 Villagrove Dr, Houston, TX 77049",155000,Manufactured home,2,1088,10,0,27
+201,80,"4942 Scenic Woods Trl, Kingwood, TX 77345",364990,Single family residence,4,3172,8,0,25
+202,17,"6938 New York St A-B, Houston, TX 77021",359000,Duplex,6,3992,53,44,43
+203,0,"15426 Baxter Ave, Houston, TX 77084",375000,Single family residence,5,2481,59,0,41
+204,0,"10230 Dawson Hill Ln, Houston, TX 77044",265000,Single family residence,3,1795,0,0,26
+205,68,"12203 Briar Forest Dr, Houston, TX 77077",369000,Single family residence,3,2790,38,30,47
+206,0,"6996 Oakwood Place Ct E, Houston, TX 77040",310000,Single family residence,3,2536,6,22,31
+207,0,"10519 Laneview Dr, Houston, TX 77070",375000,Single family residence,4,2779,13,24,52
+208,17,"6723 New York St, Houston, TX 77021",285000,Single family residence,3,1887,60,43,54
+209,43,"8323 Field Sparrow Trl, Houston, TX 77049",320000,Single family residence,4,2369,5,0,27
+210,0,"6402 Laurel Run, Houston, TX 77084",349000,Single family residence,4,2489,23,0,30
+211,65,"7931 Hollow Hook Rd, Houston, TX 77041",244375,Single family residence,3,1402,34,34,36
+212,68,"12443 Honeywood Trl, Houston, TX 77077",470000,Single family residence,5,3280,53,32,63
+213,0,"15406 Wandering Creek Trl, Houston, TX 77044",320000,Single family residence,4,2836,3,0,25
+214,0,"15614 Rio Del Sol Dr, Houston, TX 77083",229990,Single family residence,3,1876,8,20,32
+216,20,"7730 Bradford St, Houston, TX 77087",295000,Single family residence,4,1689,61,39,49
+217,0,"12906 Birch Falls Rd, Houston, TX 77065",345000,Single family residence,4,2408,17,7,30
+218,40,"19223 Ruble Dr, Houston, TX 77084",269900,Single family residence,3,1636,32,0,60
+219,0,"16914 Elmwood Glen Ct, Houston, TX 77095",334000,Single family residence,4,2528,14,0,28
+220,14,"7711 Dashwood Dr, Houston, TX 77036",319000,Single family residence,4,2272,78,55,57
+221,9,"9611 Guest St, Houston, TX 77078",160000,Ranch,3,1518,52,44,49
+222,0,"1003 Vest Ct, Houston, TX 77073",280000,Single family residence,4,2328,13,26,31
+223,58,"11114 Sageheather Dr, Houston, TX 77089",199900,Single family residence,3,1470,49,28,44
+224,82,"15914 Hidden Cv, Houston, TX 77079",757000,Single family residence,3,4415,47,34,42
+225,70,"1678 Beaconshire Rd, Houston, TX 77077",320000,Single family residence,4,3129,61,32,57
+227,76,"3525 Sage Rd APT 1306, Houston, TX 77056",179999,Condominium,1,834,61,55,47
+228,71,"6622 Eureka St, Houston, TX 77008",475000,Single family residence,3,2240,26,39,36
+229,70,"3214 Meadway Dr, Houston, TX 77082",289000,Single family residence,4,2123,52,44,67
+230,40,"5903 Saddle Bred Dr, Houston, TX 77084",389000,Single family residence,5,3513,5,0,26
+231,69,"3104 Hamilton St, Houston, TX 77004",389990,Townhouse,3,2310,79,66,72
+232,0,"7206 River Garden Dr, Houston, TX 77095",219000,Single family residence,2,1509,69,0,50
+233,34,"8405 Wilcrest Dr APT 3014, Houston, TX 77072",90000,Townhouse,3,1292,43,44,41
+234,20,"6121 Ridgemont St, Houston, TX 77087",180000,Single family residence,4,1720,58,38,45
+235,44,"7950 N Stadium Dr APT 230, Houston, TX 77030",155000,Townhouse,2,1137,72,66,86
+236,69,"2000 Bagby St APT 13416, Houston, TX 77002",499000,Condominium,2,1884,89,83,56
+237,33,"8336 Bonner Dr, Houston, TX 77017",185000,Single family residence,3,1445,42,28,40
+238,0,"10011 Lazy Meadows Dr, Houston, TX 77064",320000,Single family residence,4,2416,6,0,27
+239,0,"8510 Nashwood Ct, Houston, TX 77040",319999,Single family residence,4,2404,44,0,44
+240,58,"11011 Sagewillow Ln, Houston, TX 77089",269900,Single family residence,4,2229,44,28,40
+241,53,"2303 Elmgate Dr, Houston, TX 77080",459000,Single family residence,4,2048,36,30,52
+242,0,"10262 Scotsbrook Dr, Houston, TX 77038",329000,Single family residence,6,3471,28,25,37
+244,14,"7400 Bellerive Dr APT 606, Houston, TX 77036",135000,Townhouse,2,1094,64,45,51
+245,76,"2 Longbow Ln, Houston, TX 77024",17850000,Single family residence,8,16818,2,2,2
+246,59,"11122 W Cyrus Dr, Houston, TX 77064",399000,Single family residence,4,3186,13,16,29
+247,39,"5843 Village Forest Ct, Houston, TX 77092",162000,Townhouse,4,1516,46,40,40
+248,0,"14902 Walters Rd, Houston, TX 77068",299999,Single family residence,4,2538,70,29,50
+249,61,"11107 Cedarhurst Dr, Houston, TX 77096",420000,Ranch,3,1814,43,40,40
+252,35,"7655 S Braeswood Blvd APT 38, Houston, TX 77071",188000,Townhouse,2,1559,53,45,59
+253,72,"2511 Ohsfeldt St UNIT B, Houston, TX 77008",439000,Single family residence,3,2189,58,34,67
+255,0,"17109 Wilthorne Colony Ct, Houston, TX 77084",278000,Single family residence,3,1834,43,0,44
+257,0,"5629 Azores, Houston, TX 77091",355900,Single family residence,3,1735,4,29,26
+259,0,"7011 Buffkin Ln, Houston, TX 77069",514000,Single family residence,5,4025,9,0,40
+260,62,"4969 Brinkman St, Houston, TX 77018",434900,Single family residence,3,1857,42,44,40
+261,39,"9715 Kindletree Dr, Houston, TX 77040",325000,Single family residence,4,2646,22,0,41
+262,0,"3410 Woodbriar Dr, Houston, TX 77068",300000,Single family residence,4,2626,9,0,39
+263,0,"15639 Sierra Valle Dr, Houston, TX 77083",290000,Single family residence,3,1876,18,21,35
+264,71,"2118 Lazybrook Dr, Houston, TX 77008",735000,Ranch,3,1876,63,36,53
+266,30,"6528 Couch St, Houston, TX 77091",374900,Single family residence,4,2038,34,39,35
+267,65,"1524 Ojeman Rd C, Houston, TX 77055",399999,Single family residence,3,1558,59,34,52
+268,54,"2107 Pueblito Dr, Houston, TX 77077",469990,Single family residence,3,2364,72,45,62
+270,13,"1724 Wellington St, Houston, TX 77093",409000,Single family residence,4,2201,16,23,31
+271,23,"12206 Wild Pine Dr UNIT D, Houston, TX 77039",125000,Townhouse,3,1574,25,30,40
+272,62,"4785 Summit St, Houston, TX 77018",434900,Single family residence,3,1861,45,48,49
+273,0,"7454 Navidad Rd, Houston, TX 77083",250000,Single family residence,5,1260,9,18,28
+274,77,"18043 Starboard Dr, Houston, TX 77058",235000,Townhouse,2,2524,23,0,36
+276,0,"16110 Kintyre Point Rd, Houston, TX 77095",374900,Single family residence,4,2421,8,0,28
+278,0,"22411 Kenchester Dr, Houston, TX 77073",299900,Single family residence,3,1872,4,23,27
+279,0,"15322 Paladora Dr, Houston, TX 77083",291500,Single family residence,3,2625,27,22,34
+280,32,"910 Centerwood Dr, Houston, TX 77013",215000,Single family residence,3,1416,52,29,56
+281,45,"6620 Loma Vista St A, Houston, TX 77085",298000,Duplex,3,1807,19,12,31
+282,5,"5210 Longmeadow St A-B, Houston, TX 77033",370000,Duplex,3,2340,24,36,54
+285,5,"5430 Heron Dr, Houston, TX 77033",515000,Duplex,6,2831,41,44,40
+286,9,"8643 Sunderland Rd, Houston, TX 77028",369000,Duplex,3,2300,58,40,54
+287,39,"7200 T C Jester Blvd 2401-04, Houston, TX 77088",310000,Quadruplex,3,3751,31,24,46
+288,0,"12830 Magic Dr, Houston, TX 77039",420000,Quadruplex,4,3570,44,34,43
+289,87,"4503 Austin St, Houston, TX 77004",650000,Duplex,3,2896,89,66,82
+290,31,"2410 Truxillo St, Houston, TX 77004",599990,Triplex,3,3514,77,53,83
+291,32,"13347 Indianapolis St, Houston, TX 77015",214900,Duplex,4,1518,56,34,49
+292,85,"6126 Tyne St, Houston, TX 77007",385000,Duplex,2,1430,62,39,52
+293,17,"6813 Liverpool St, Houston, TX 77021",499999,Duplex,3,2590,58,43,52
+295,15,"1517 Collins Rd, Houston, TX 77093",289900,Triplex,3,2948,4,15,27
+297,27,"9806 Springbrook Dr, Houston, TX 77041",310000,Duplex,3,2466,29,26,47
+298,46,"3510 & 3512 Nagle St, Houston, TX 77004",315000,Duplex,4,1114,71,52,88
+299,0,"2934 Bertrand St, Houston, TX 77093",525000,Quadruplex,6,5180,21,24,38
+300,56,"9410 Derrik Dr, Houston, TX 77080",380000,Duplex,4,2257,58,27,62
+301,31,"2909 Cleburne St, Houston, TX 77004",500000,Duplex,2,2046,67,52,76
+302,19,"2306 Fennell St APT 4, Houston, TX 77012",350000,Quadruplex,--,1728,59,34,46
+304,10,"7301 Sherman St 6, Houston, TX 77011",599900,Multi family,1,2220,73,49,70
+305,78,"1920 Kipling St, Houston, TX 77098",899888,Duplex,4,2102,93,51,79
+306,15,"3814 Fulton St, Houston, TX 77009",270000,Multi family,1,--,75,57,60
+308,7,"2315 Chew St, Houston, TX 77020",290000,Multi family,4,835,58,50,64
+309,2,"3921 & 3923 Melbourne St, Houston, TX 77026",325000,Multi family,2,2217,32,55,37
+310,3,"6612 Haight St, Houston, TX 77028",369000,Duplex,3,2300,13,32,28
+311,31,"2518 Cleburne St, Houston, TX 77004",1749900,Duplex,4,3096,69,50,79
+312,25,"7608 E Magnolia St, Houston, TX 77012",359000,Duplex,3,1944,43,34,51
+313,26,"3520 Broadway St, Houston, TX 77017",575000,Multi family,3,3797,70,37,50
+314,63,"4322 & 4326 Alconbury Ln 4-1-8, Houston, TX 77021",1399980,Quadruplex,--,3120,54,54,80
+316,4,"826 Hahlo St, Houston, TX 77020",469999,Duplex,3,2252,70,50,67
+318,22,"4326 Larkspur St 1-4, Houston, TX 77051",549900,Quadruplex,2,3564,53,45,53
+319,2,"7003 Hoffman St, Houston, TX 77028",380000,Triplex,2,1092,30,36,52
+320,78,"606 Avondale St, Houston, TX 77006",850000,Duplex,3,3162,90,61,76
+322,63,"2407 Southmore Blvd 3, Houston, TX 77004",620000,Multi family,--,1716,66,49,71
+323,13,"4406-4406 E Tidwell Rd, Houston, TX 77093",399999,Duplex,3,2700,40,42,38
+324,78,"4320 Jack St, Houston, TX 77006",850000,Duplex,5,2368,80,72,72
+325,13,"4406-4406 Tidwell Rd B, Houston, TX 77093",399999,Duplex,3,2700,40,42,38
+326,15,"26 Farrell St APT 10, Houston, TX 77022",974888,Multi family,1,6826,62,58,50
+329,37,"514 Martin St, Houston, TX 77018",1500000,Multi family,4,3542,61,49,51
+330,13,"4406-4406 Tidwell Rd D, Houston, TX 77093",399999,Duplex,3,2700,40,42,38
+331,58,"12410 Palmway St, Houston, TX 77034",187000,Duplex,4,1838,32,0,40
+332,61,"11102 Burdine St, Houston, TX 77096",412000,Single family residence,3,2000,42,38,41
+333,45,"13326 Montclair Point Ct, Houston, TX 77047",235000,Single family residence,3,1560,19,26,30
+334,85,"1513 Reinerman St, Houston, TX 77007",449000,Townhouse,3,2520,84,45,52
+335,0,"14622 Sweetwater View Dr, Houston, TX 77047",225000,Single family residence,4,1295,19,0,55
+336,39,"5834 Par Four Dr, Houston, TX 77088",195000,Single family residence,3,1628,64,37,70
+337,85,"2508 Sherwin St, Houston, TX 77007",459000,Single family residence,3,2375,41,38,42
+338,64,"1118 Glourie Dr, Houston, TX 77055",1030000,Single family residence,3,2268,56,34,58
+339,69,"1719 Tuam St, Houston, TX 77004",285000,Townhouse,2,1216,76,71,65
+340,61,"10710 Oasis Dr, Houston, TX 77096",430000,Single family residence,3,1761,41,38,41
+341,14,"7510 Hornwood Dr APT 1303, Houston, TX 77036",115000,Condominium,2,1137,72,48,51
+342,14,"6822 Roos Rd, Houston, TX 77074",275000,Single family residence,3,1704,44,51,45
+343,69,"12 Hyde Park Blvd UNIT 5, Houston, TX 77006",245000,Townhouse,2,1105,91,71,69
+344,78,"1614 Hazel St, Houston, TX 77006",639900,Single family residence,3,2864,87,53,68
+346,30,"5819 Francis Oak Pl, Houston, TX 77091",384900,Single family residence,3,1842,7,31,27
+347,76,"2657 Marilee Ln, Houston, TX 77057",144900,Townhouse,2,1088,69,50,50
+348,14,"6000 Reims Rd APT 2406, Houston, TX 77036",165000,Townhouse,2,1640,52,45,52
+349,44,"7447 Cambridge St APT 73, Houston, TX 77054",249000,Townhouse,2,1556,51,54,66
+350,80,"1823 Mountain Aspen Ln, Kingwood, TX 77345",475000,Single family residence,4,3143,3,0,27
+351,79,"1802 Gillette St, Houston, TX 77019",335000,Townhouse,2,1443,85,69,64
+353,64,"1707 Red Oak Point Dr, Houston, TX 77055",610000,Single family residence,3,2826,74,36,64
+354,0,"11611 Parkriver Dr, Houston, TX 77070",379000,Single family residence,4,2738,15,0,54
+355,30,"2138 Deerhurst Ln, Houston, TX 77088",385000,Single family residence,4,2662,7,29,33
+356,0,"13915 Honey Bee Ct, Houston, TX 77039",99900,Single family residence,5,2616,7,31,28
+359,23,"5203 Piedmont St A, Houston, TX 77016",295000,Duplex,3,1960,16,26,46
+367,69,"2000 Bagby St APT 5406, Houston, TX 77002",364000,Condominium,1,1648,89,83,56
+368,80,"3626 Cape Forest Dr, Kingwood, TX 77345",389500,Single family residence,3,2486,54,23,53
+369,0,"16310 Salinas Ln, Houston, TX 77095",290000,Single family residence,4,2316,4,0,27
+370,76,"2006 Potomac Dr APT D, Houston, TX 77057",439000,Townhouse,3,2676,75,35,50
+372,67,"915 Franklin St UNIT 9H, Houston, TX 77002",299500,Condominium,1,1025,95,87,76
+373,30,"5403 Yorkdale Dr, Houston, TX 77091",175000,Single family residence,3,1315,18,31,63
+376,71,"7159 Crystal Way, Houston, TX 77036",289000,Single family residence,3,1648,46,38,42
+377,7,"3926 Farmer St, Houston, TX 77020",189990,Triplex,6,1420,37,44,67
+378,0,"15855 Granite Mountain Trl, Houston, TX 77049",274900,Single family residence,3,1733,27,0,32
+379,0,"10403 Rippling Fields Dr, Houston, TX 77064",245000,Single family residence,4,2160,34,0,37
+382,76,"3525 Sage Rd APT 1502, Houston, TX 77056",164900,Condominium,1,794,61,55,47
+383,34,"13238 Rustic Garden Dr, Houston, TX 77083",319500,Single family residence,3,1999,29,44,39
+384,0,"14420 Walters Rd UNIT 31, Houston, TX 77014",250000,Townhouse,3,1659,80,33,50
+385,76,"661 Bering Dr UNIT 104, Houston, TX 77057",160000,Condominium,2,1287,56,36,56
+386,66,"11306 Pecan Creek Dr, Houston, TX 77043",557000,Ranch,4,2390,39,27,47
+388,9,"12019 Coral Reef Dr, Houston, TX 77044",107000,Manufactured home,3,1140,23,9,33
+389,66,"1437 Wisterwood Dr, Houston, TX 77043",324900,Single family residence,3,1476,52,41,68
+390,30,"6819 Tuskegee St, Houston, TX 77091",285000,Single family residence,3,1505,41,42,40
+391,0,"10658 Memorial Dr, Houston, TX 77024",5950000,Single family residence,6,8296,6,22,26
+394,0,"5621 Savyon Dr, Houston, TX 77091",449000,Single family residence,4,2300,4,29,26
+397,15,"531 Cool Spring Dr, Houston, TX 77037",189000,Single family residence,3,1045,44,37,46
+398,58,"12638 Sandy Hook Dr, Houston, TX 77089",205000,Single family residence,3,1141,47,21,36
+399,0,"5608 Azores, Houston, TX 77091",359900,Single family residence,3,1827,4,29,26
+400,0,"5610 Azores, Houston, TX 77091",359900,Single family residence,3,1827,4,29,26
+401,0,"5632 Azores, Houston, TX 77091",355900,Single family residence,3,1735,4,29,26
+403,15,"6721 Parker Grove Ln, Houston, TX 77076",309900,Single family residence,3,1772,45,42,43
+404,30,"967 Lucky St, Houston, TX 77088",325000,Single family residence,4,1776,34,43,37
+405,0,"10319 White Fir Villa Ave, Houston, TX 77044",239500,Single family residence,4,1460,8,0,26
+406,0,"16539 Rock East Dr, Houston, TX 77073",230000,Single family residence,3,1470,11,27,29
+407,6,"10211 Sugar Branch Dr APT 318, Houston, TX 77036",54000,Townhouse,1,784,46,43,42
+408,0,"5634 Azores, Houston, TX 77091",359900,Single family residence,3,1735,4,29,26
+409,0,"8131 Brinkworth Ln, Houston, TX 77070",285000,Single family residence,4,2272,37,27,43
+410,77,"14823 Sparkling Bay Ln, Houston, TX 77062",669000,Single family residence,4,3766,22,0,31
+411,86,"3400 Timmons Ln 13, Houston, TX 77027",175000,Townhouse,2,844,74,47,52
+412,85,"5313 Lillian St, Houston, TX 77007",475000,Single family residence,3,2355,85,47,59
+413,0,"5616 Azores, Houston, TX 77091",355900,Single family residence,3,1827,4,29,26
+414,0,"5614 Azores, Houston, TX 77091",355900,Single family residence,3,1827,4,29,26
+415,49,"8006 Winthrop St, Houston, TX 77075",239000,Single family residence,3,1620,37,0,40
+417,17,"7101 Foster St B, Houston, TX 77021",249500,Duplex,3,1225,50,45,45
+419,34,"9700 Leawood Blvd 2/202, Houston, TX 77099",104500,Townhouse,2,1068,62,39,41
+420,70,"2103 Pueblito Dr, Houston, TX 77077",479990,Single family residence,3,2414,72,45,62
+421,58,"12166 Beamer Rd, Houston, TX 77089",205000,Townhouse,3,2030,57,28,42
+422,0,"8418 Twin Lamps Ln, Houston, TX 77064",195000,Single family residence,3,1878,24,36,54
+423,7,"2004 Worms St, Houston, TX 77020",320000,Single family residence,2,1637,31,44,59
+425,82,"10851 Pepper Ln, Houston, TX 77079",725000,Single family residence,4,2907,48,29,45
+426,0,"5431 Olympia Fields Ln, Houston, TX 77069",497500,Single family residence,5,3899,36,28,40
+427,83,"15002 Cozy Hollow Ln, Houston, TX 77044",425000,Single family residence,4,3407,22,0,33
+428,62,"948 Fisher St D, Houston, TX 77018",479900,Single family residence,3,2177,54,38,60
+429,0,"10922 W Early Dusk Cir, Houston, TX 77044",282900,Single family residence,4,2379,0,0,25
+433,72,"400 Cordell St, Houston, TX 77009",1000000,Single family residence,3,2945,74,53,57
+434,58,"11731 Tierra Palms Ct, Houston, TX 77034",269999,Single family residence,6,2400,23,10,36
+439,84,"3001 Inwood Dr, Houston, TX 77019",16500000,Single family residence,6,13630,37,45,44
+441,62,"903 Lehman St C, Houston, TX 77018",434900,Single family residence,3,1857,42,44,40
+442,62,"903 Lehman St A, Houston, TX 77018",434900,Single family residence,3,1857,42,44,40
+443,70,"12427 Shadowvale Dr, Houston, TX 77082",447000,Single family residence,4,3374,48,39,27
+444,0,"17323 Dakota Ridge Dr, Houston, TX 77095",379000,Single family residence,5,2797,48,0,42
+445,34,"4163 Wildacres Dr, Houston, TX 77072",250000,Single family residence,4,2208,38,31,43
+447,78,"1010 Rosine St APT 201, Houston, TX 77019",282000,Condominium,2,1129,86,52,76
+448,85,"6505 Taggart St B, Houston, TX 77007",1295000,Single family residence,3,3581,61,39,53
+449,0,"15018 Carols Way Dr, Houston, TX 77070",299999,Single family residence,4,2194,20,0,54
+451,0,"13910 Hunters Cove Ct, Houston, TX 77039",225000,Single family residence,3,1700,3,32,28
+452,0,"12003 Cyprus Fld, Houston, TX 77070",285000,Single family residence,3,1994,71,0,46
+454,78,"1728 Park St, Houston, TX 77019",849000,Townhouse,3,3188,85,51,67
+456,37,"4514 Old Yale St C, Houston, TX 77018",395000,Single family residence,3,1554,48,45,71
+457,62,"803 Martin Rd C, Houston, TX 77018",439900,Single family residence,3,1732,39,47,43
+458,58,"10015 Lizette Ct, Houston, TX 77075",450000,Single family residence,4,2780,51,26,40
+459,58,"10850 Nellsfield Ln, Houston, TX 77075",250000,Single family residence,3,1565,20,0,32
+462,35,"10100 S Gessner Rd APT 703, Houston, TX 77071",80000,Townhouse,1,684,56,40,60
+464,67,"2323 Polk St APT 201, Houston, TX 77003",274000,Townhouse,1,1333,77,85,70
+466,0,"2111 Mountain Ranch Dr, Houston, TX 77049",249000,Single family residence,3,1794,10,0,27
+469,40,"2910 Aspen Park Ln, Houston, TX 77084",415000,Single family residence,6,3601,23,0,54
+470,35,"11834 Lelda Ln, Houston, TX 77071",254900,Single family residence,4,1820,37,41,37
+471,85,"5239 Kiam St, Houston, TX 77007",425000,Single family residence,3,1032,57,40,68
+472,35,"12018 Villa Lea Ln, Houston, TX 77071",275000,Single family residence,3,1939,17,44,34
+473,80,"5606 Woodland Creek Dr, Kingwood, TX 77345",400000,Single family residence,4,2539,4,0,34
+474,0,"3423 Woodbriar Dr, Houston, TX 77068",399900,Single family residence,5,3225,12,0,34
+475,0,"18222 Wild Oak Dr, Houston, TX 77090",235000,Single family residence,3,1598,4,14,32
+476,45,"15007 Bathurst Dr, Houston, TX 77053",135000,Single family residence,3,1247,35,43,35
+477,32,"10718 Garrick Ln, Houston, TX 77013",217000,Single family residence,3,1752,36,32,65
+478,77,"14826 Saint Cloud Dr, Houston, TX 77062",289900,Single family residence,3,1707,14,0,36
+479,0,"13514 Leedwick Dr, Houston, TX 77041",350000,Single family residence,5,2959,19,0,28
+481,82,"2714 Owens Cross Dr, Houston, TX 77067",245000,Single family residence,3,1931,29,38,42
+485,0,"1722 Dominic Ln, Houston, TX 77049",319900,Single family residence,4,1896,16,0,28
+486,77,"16514 Brook Forest Dr, Houston, TX 77059",699900,Single family residence,5,4502,9,0,57
+487,0,"8803 Ballinger Dr, Houston, TX 77064",599000,Single family residence,5,3680,10,0,27
+488,77,"1323 New Cedars Dr, Houston, TX 77062",285000,Single family residence,3,2204,31,0,35
+490,72,"733 W 21st St B, Houston, TX 77008",585000,Single family residence,3,2374,80,42,56
+491,34,"13311 Rain Lily Ln, Houston, TX 77083",245000,Single family residence,3,1788,43,45,53
+492,5,"5824 Willow Glen Dr, Houston, TX 77033",100000,Single family residence,3,1181,54,44,44
+493,23,"9934 Woodwick St, Houston, TX 77016",149500,Single family residence,3,1083,11,34,33
+495,0,"18046 Bambriar Dr, Houston, TX 77090",375000,Single family residence,5,2732,1,0,26
+497,70,"3226 Enclave Ln, Houston, TX 77077",519900,Single family residence,4,3910,60,32,53
+499,82,"714 Kahlden Ct, Houston, TX 77079",695000,Single family residence,4,3798,19,26,52
+500,0,"14535 Overland Hollow Dr, Houston, TX 77069",270000,Single family residence,3,1415,37,31,40
+501,39,"7631 White Fir Dr, Houston, TX 77088",289999,Single family residence,4,2565,5,32,27
+502,0,"4126 Surreydon Dr, Houston, TX 77014",259500,Single family residence,3,2081,47,26,35
+503,30,"999 Saint Clair St, Houston, TX 77088",238990,Single family residence,3,1298,38,45,39
+506,32,"13371 Indianapolis St A, Houston, TX 77015",109000,Ranch,1,670,59,34,49
+508,70,"14102 Swiss Hill Dr, Houston, TX 77077",368000,Single family residence,3,2762,27,28,42
+509,74,"5754 Braesheather Dr, Houston, TX 77096",415000,Single family residence,4,2281,46,40,58
+510,0,"5631 Azores, Houston, TX 77091",355900,Single family residence,3,1735,4,29,26
+511,0,"5635 Azores, Houston, TX 77091",359900,Single family residence,3,1735,4,29,26
+514,72,"1308 W 25th St UNIT C, Houston, TX 77008",460000,Single family residence,3,1936,24,36,54
+516,0,"5630 Azores, Houston, TX 77091",355900,Single family residence,3,1735,4,29,26
+517,77,"1502 Saxony Ln, Houston, TX 77058",294900,Ranch,3,1765,50,0,42
+518,45,"5139 Danfield Dr, Houston, TX 77053",210000,Single family residence,5,3080,25,30,34
+520,0,"13615 Paxton Dr, Houston, TX 77014",206000,Single family residence,3,1050,9,0,27
+521,0,"17817 Glenmark Dr, Houston, TX 77084",160000,Single family residence,2,957,49,0,51
+522,16,"242 Sulky Trail St, Houston, TX 77060",214000,Single family residence,4,1538,58,40,44
+524,31,"2120 Alabama St, Houston, TX 77004",344900,Single family residence,4,2145,77,56,81
+525,68,"10706 Bordley Dr, Houston, TX 77042",699900,Single family residence,4,3247,30,34,53
+526,0,"4214 Browns Forest Dr, Houston, TX 77084",370000,Single family residence,4,2607,13,0,31
+527,76,"6150 Chevy Chase Dr, Houston, TX 77057",775000,Single family residence,4,3192,61,44,48
+528,49,"8125 Fuqua Ct, Houston, TX 77075",275000,Single family residence,3,1569,39,0,38
+530,0,"15918 Colonial Bridge Ln, Houston, TX 77073",219900,Single family residence,3,1338,5,27,26
+531,15,"1127 Hammock St, Houston, TX 77009",319000,Single family residence,3,1266,74,64,61
+532,62,"903 Lehman St, Houston, TX 77018",444900,Single family residence,3,1951,42,44,40
+533,62,"903 Lehman St F, Houston, TX 77018",444900,Single family residence,3,1951,42,44,40
+534,62,"4783 Summit St, Houston, TX 77018",439900,Single family residence,3,1732,45,48,49
+536,68,"2110 Hickory Lawn Dr, Houston, TX 77077",325000,Single family residence,4,2552,49,42,54
+537,72,"1225 Nicholson St, Houston, TX 77008",1050000,Single family residence,3,2404,80,42,61
+540,43,"11014 Leitrim Way, Houston, TX 77047",155000,Ranch,2,1642,24,39,47
+541,3,"7828 Pardee St, Houston, TX 77028",295000,Single family residence,3,1364,14,28,22
+543,0,"2822 Youpon Lake Ct, Houston, TX 77084",300000,Single family residence,4,2368,30,0,57
+545,45,"4303 Tidewater Dr, Houston, TX 77045",160000,Single family residence,4,2222,34,31,49
+546,21,"6306 Jefferson St, Houston, TX 77023",629900,Single family residence,3,2151,60,47,61
+547,85,"2721 Maxroy St, Houston, TX 77007",649900,Single family residence,4,2675,29,39,37
+548,37,"4512 Old Yale St B, Houston, TX 77018",409900,Single family residence,3,1541,54,47,71
+549,14,"6410 Tam O Shanter Ln, Houston, TX 77036",435000,Single family residence,4,3329,64,48,53
+550,80,"3502 Tree Ln, Humble, TX 77339",421900,Single family residence,5,3225,20,0,47
+551,82,"12915 Memorial Dr, Houston, TX 77079",600000,Single family residence,3,2419,75,33,52
+554,32,"12531 Orleans St, Houston, TX 77015",199900,Single family residence,3,1534,59,32,46
+556,0,"1910 Windy Peaks Ct, Houston, TX 77067",250000,Single family residence,3,2861,8,0,29
+557,2,"7209 Sayers St, Houston, TX 77016",314400,Single family residence,3,1611,29,43,38
+561,0,"8906 Sable Terrace Ln, Houston, TX 77044",340000,Single family residence,4,2063,42,0,35
+562,0,"17831 Butte Creek Rd, Houston, TX 77090",314900,Single family residence,4,2467,11,0,30
+564,33,"202 Ogilvie St, Houston, TX 77017",489900,Single family residence,5,3300,32,23,34
+566,0,"12715 Watercress Park, Houston, TX 77041",384900,Single family residence,4,2700,28,0,33
+567,35,"12030 E Circle Dr, Houston, TX 77071",599999,Single family residence,4,4875,14,45,29
+568,0,"4711 Theall Rd, Houston, TX 77066",249000,Single family residence,4,2330,66,33,49
+569,77,"18210 Caprice Ln, Houston, TX 77058",359900,Single family residence,3,2065,44,0,35
+573,0,"11923 Greensbrook Forest Dr, Houston, TX 77044",160000,Single family residence,3,1080,3,0,29
+575,0,"12223 Drifting Pine Ct, Houston, TX 77066",244000,Single family residence,3,2093,13,34,41
+576,83,"16022 Coco Shores Ct, Houston, TX 77044",314900,Single family residence,3,2206,3,0,28
+577,0,"16006 Garden Hill Ln, Houston, TX 77095",350000,Single family residence,4,2421,19,0,35
+578,82,"655 Langwood Dr, Houston, TX 77079",450000,Single family residence,5,2791,46,30,70
+580,35,"8027 Albin Ln, Houston, TX 77071",549900,Single family residence,5,5172,49,42,44
+582,45,"4419 Trafalgar Dr, Houston, TX 77045",244900,Single family residence,3,1622,45,38,43
+583,0,"5303 Spanish Oak Dr, Houston, TX 77066",559900,Single family residence,7,5152,26,23,34
+584,34,"13550 Creek Springs Dr, Houston, TX 77083",244900,Single family residence,3,1742,43,49,52
+585,2,"4105 Lumber Ln, Houston, TX 77016",235000,Single family residence,3,1280,35,49,36
+586,0,"11907 Greencreek Cir, Houston, TX 77070",314900,Single family residence,4,2198,43,0,41
+588,30,"2906 S Druid St, Houston, TX 77091",165000,Single family residence,3,1728,20,23,30
+589,0,"3702 Blue Meadow Ln, Houston, TX 77039",199000,Single family residence,4,1349,46,34,35
+590,0,"1718 Kilmory Ct, Houston, TX 77014",249000,Single family residence,4,1538,3,23,26
+591,27,"5510 Triway Ln, Houston, TX 77041",297000,Single family residence,4,1600,32,34,36
+592,20,"7705 Edna St, Houston, TX 77087",320000,Single family residence,5,1752,64,40,57
+593,0,"16331 Brookside Willow Ln, Houston, TX 77084",380000,Single family residence,5,3385,27,0,32
+594,0,"10834 Great Bridge Dr, Houston, TX 77065",279900,Single family residence,4,2168,33,0,38
+595,30,"2409 Dalview St, Houston, TX 77091",365000,Single family residence,4,1848,22,25,31
+596,85,"305 Reinerman St, Houston, TX 77007",499800,Single family residence,3,2528,79,48,60
+597,0,"14411 Wadebridge Way, Houston, TX 77015",308000,Single family residence,3,1851,58,0,43
+598,68,"11902 Rocky Knoll Dr, Houston, TX 77077",338000,Single family residence,3,1739,47,41,55
+599,83,"13810 Turning Spring Ln, Houston, TX 77044",389900,Ranch,5,2899,3,0,28
+600,0,"8826 Eastheimer St, Houston, TX 77064",255000,Single family residence,4,2030,29,0,36
+601,23,"10502 Bucknell Rd, Houston, TX 77016",239999,Single family residence,4,1372,28,29,43
+602,58,"11246 Sagecanyon Dr, Houston, TX 77089",249900,Single family residence,3,1801,14,23,30
+603,39,"5211 Winding Way Dr, Houston, TX 77091",250000,Single family residence,4,2463,29,35,58
+605,80,"2003 Hidden Creek Dr, Humble, TX 77339",300000,Single family residence,4,2241,35,0,40
+606,0,"13138 Newbrook Dr, Houston, TX 77072",219000,Single family residence,3,1872,56,42,45
+608,61,"5622 Ludington Dr, Houston, TX 77035",274900,Ranch,4,2035,37,39,40
+610,20,"7127 Airport Blvd, Houston, TX 77061",495000,Single family residence,3,1896,8,20,32
+612,56,"9255 Friendship Rd, Houston, TX 77080",299900,Single family residence,3,1762,59,33,54
+613,70,"12261 Oxford Crescent Cir, Houston, TX 77082",385000,Single family residence,4,2341,73,46,58
+615,77,"15806 La Avenida Dr, Houston, TX 77062",279900,Single family residence,4,1880,73,0,53
+616,80,"2003 Sunshine Point Dr, Kingwood, TX 77345",550000,Single family residence,5,3942,2,0,28
+618,0,"5523 Pebble Springs Dr, Houston, TX 77066",364900,Single family residence,6,3484,53,28,42
+619,0,"5636 Azores, Houston, TX 77091",369900,Single family residence,3,1735,4,29,26
+620,62,"950 Fisher Dr E, Houston, TX 77018",482900,Single family residence,3,2177,54,38,60
+621,28,"426 Middle St, Houston, TX 77003",490000,Single family residence,2,924,62,54,78
+622,16,"407 Remington Ridge Dr, Houston, TX 77073",250000,Single family residence,3,2308,13,31,28
+623,0,"5621 Azores, Houston, TX 77091",369900,Single family residence,3,1735,4,29,26
+624,62,"950 Fisher Dr D, Houston, TX 77018",479900,Single family residence,3,2177,54,38,60
+625,0,"16811 Waycreek Rd, Houston, TX 77068",484900,Single family residence,6,4440,24,0,33
+627,77,"15127 Manorhill Dr, Houston, TX 77062",319999,Single family residence,5,2508,45,0,44
+629,77,"14522 Redbud Valley Trl, Houston, TX 77062",344900,Single family residence,5,2471,41,0,34
+630,72,"1416 Arlington St, Houston, TX 77008",1549000,Single family residence,4,3388,66,48,64
+631,21,"5431 Cuerta St, Houston, TX 77023",339900,Single family residence,3,1795,62,48,60
+633,0,"943 Crestbrook Dr, Houston, TX 77038",239900,Single family residence,4,1530,40,27,39
+637,49,"8446 Springtime Ln, Houston, TX 77075",219000,Single family residence,3,1361,41,0,39
+638,0,"15242 Garrett Rd, Houston, TX 77044",475000,Single family residence,4,3230,0,0,25
+640,0,"5633 Azores, Houston, TX 77091",359900,Single family residence,3,1735,4,29,26
+641,14,"7815 Prestwood Dr, Houston, TX 77036",359900,Single family residence,4,2055,51,46,55
+642,14,"8518 Clarewood Dr, Houston, TX 77036",375000,Single family residence,5,2574,65,47,57
+643,0,"518 E Lorino St, Houston, TX 77037",198000,Single family residence,3,1350,22,38,34
+644,0,"16635 Shorewood Lakes Dr, Houston, TX 77095",262000,Single family residence,3,1440,19,0,31
+645,40,"5538 Honor Dr, Houston, TX 77041",600000,Single family residence,5,3985,33,0,36
+647,58,"10910 Hoffer St, Houston, TX 77075",209900,Single family residence,3,1272,64,0,47
+648,82,"12703 Pebblebrook Dr, Houston, TX 77024",945000,Single family residence,5,4319,72,41,51
+650,58,"11231 Sageview Dr, Houston, TX 77089",239000,Single family residence,3,1858,53,28,45
+652,0,"5620 Azores, Houston, TX 77091",359900,Single family residence,3,1827,4,29,26
+653,0,"5618 Azores, Houston, TX 77091",355900,Single family residence,3,1827,4,29,26
+655,26,"8145 Easton St, Houston, TX 77017",304999,Single family residence,4,1635,50,35,47
+657,84,"1722 River Oaks Blvd, Houston, TX 77019",20000000,Single family residence,5,12209,32,43,40
+658,0,"9511 Chalford Dr, Houston, TX 77083",265000,Single family residence,3,1886,54,0,47
+659,0,"10919 Berry Tree Dr, Houston, TX 77064",230000,Single family residence,3,1440,48,0,41
+660,0,"5627 Azores, Houston, TX 77091",355900,Single family residence,3,1735,4,29,26
+661,39,"9518 Kindletree Dr, Houston, TX 77040",185000,Single family residence,3,2151,40,0,55
+662,0,"147 Greyfriar Dr, Houston, TX 77037",229000,Single family residence,3,1503,30,36,52
+664,37,"4514 Old Yale St D, Houston, TX 77018",395000,Single family residence,3,1554,54,47,71
+665,0,"12607 Chandlers Way Dr, Houston, TX 77041",460000,Single family residence,4,2860,26,0,32
+666,62,"4507 Sweet Madeline Ln, Houston, TX 77018",1350000,Single family residence,4,4159,14,30,55
+667,30,"5814 Cebra Rd, Houston, TX 77091",384900,Single family residence,3,1842,7,32,28
+669,0,"2105 Pueblito Dr, Houston, TX 77077",449990,Single family residence,3,2008,72,45,62
+670,37,"4514 Old Yale St B, Houston, TX 77018",395000,Single family residence,3,1554,54,47,71
+671,80,"1906 Laurel Springs Ln, Humble, TX 77339",339900,Single family residence,4,2110,27,0,35
+673,70,"18926 Crescent Bay Dr, Houston, TX 77094",1049000,Single family residence,4,4549,1,0,28
+676,70,"14819 Twin Maple St, Houston, TX 77082",410000,Single family residence,5,3360,62,22,43
+677,0,"14531 Dartwood Dr, Houston, TX 77049",139900,Single family residence,3,1457,9,0,32
+678,66,"1818 Upland Lakes, Houston, TX 77043",675000,Single family residence,4,3670,19,29,46
+679,15,"214 Canadian St, Houston, TX 77009",439000,Single family residence,4,1934,68,57,74
+680,80,"3703 Rustic Haven Ct, Kingwood, TX 77345",354900,Single family residence,4,2857,5,0,32
+682,37,"4510 Old Yale St B, Houston, TX 77018",385900,Single family residence,3,1463,54,47,71
+685,62,"903 Lehman St D, Houston, TX 77018",434900,Single family residence,3,1857,42,44,40
+686,72,"902 Cordell St A, Houston, TX 77009",975000,Single family residence,5,3009,63,57,73
+687,0,"3614 Canvasback Ln, Houston, TX 77047",270000,Single family residence,3,1658,16,0,40
+688,0,"906 Pear Tree Ln, Houston, TX 77073",230000,Single family residence,3,2101,22,35,33
+689,37,"4512 Old Yale St A, Houston, TX 77018",399900,Single family residence,3,1541,54,47,71
+690,0,"14911 Indian Quail Cir, Houston, TX 77095",299000,Single family residence,4,2282,34,0,40
+691,0,"11117 Beinhorn Rd, Houston, TX 77024",6300000,Single family residence,9,15148,37,25,37
+692,15,"250 W Spreading Oak Dr, Houston, TX 77076",258000,Single family residence,4,1611,42,43,41
+694,0,"5415 Cairnleigh Dr, Houston, TX 77084",255000,Single family residence,3,1828,13,0,32
+695,15,"1926 Cochran St, Houston, TX 77009",409900,Single family residence,3,1695,72,55,62
+696,0,"16915 Waycreek Rd, Houston, TX 77068",275000,Single family residence,4,3318,24,0,33
+697,70,"3223 Boxelder Dr, Houston, TX 77082",279999,Single family residence,3,1963,46,29,39
+698,13,"2015 King St, Houston, TX 77026",165000,Single family residence,2,1308,14,40,31
+699,62,"4103 Donna Lynn Dr, Houston, TX 77092",299999,Ranch,3,1714,31,39,58
+701,9,"9233 Forest View St, Houston, TX 77078",179500,Ranch,3,1332,24,36,60
+702,30,"1422 Willow Rock Rd, Houston, TX 77088",199999,Single family residence,3,1038,26,34,44
+703,0,"16430 Regal Exeter Dr, Houston, TX 77073",279000,Single family residence,4,2092,37,20,36
+704,37,"4510 Old Yale St A, Houston, TX 77018",395900,Single family residence,3,1468,54,47,71
+706,43,"10618 Duane St, Houston, TX 77047",166000,Single family residence,3,882,46,36,52
+707,0,"10127 White Oak Trail Ln, Houston, TX 77064",449999,Single family residence,5,4107,36,0,31
+708,0,"7918 Battleoak Dr, Houston, TX 77040",269995,Single family residence,3,1161,8,0,28
+709,9,"9230 Arvin St, Houston, TX 77028",225000,Single family residence,4,1520,46,43,45
+710,0,"13602 Mansor Dr, Houston, TX 77041",365000,Single family residence,4,2728,43,0,40
+711,80,"3031 Poplar Valley Way, Kingwood, TX 77345",514900,Single family residence,4,2858,33,0,33
+713,63,"4306 Fernwood Dr, Houston, TX 77021",425000,Single family residence,3,1968,52,55,90
+714,72,"4950 White Oak Dr, Houston, TX 77007",481000,Single family residence,4,2698,83,44,83
+715,70,"13706 Sandford Lake Cir, Houston, TX 77077",1325000,Single family residence,5,4812,29,41,39
+716,34,"11407 Montverde Ln, Houston, TX 77099",269900,Single family residence,3,1454,43,27,53
+718,58,"13323 Southpoint Ln, Houston, TX 77034",272000,Single family residence,3,1804,9,0,28
+719,0,"2905 Mooney Rd, Houston, TX 77093",179900,Ranch,3,1102,29,24,45
+722,30,"6427 Highland Pine Ln, Houston, TX 77091",345000,Single family residence,3,2088,28,37,33
+724,83,"8507 San Juanico St, Houston, TX 77044",589990,Single family residence,4,3043,0,0,25
+726,72,"1310 E 28th St, Houston, TX 77009",549900,Single family residence,3,2346,66,49,63
+728,72,"1538 W 23rd St D, Houston, TX 77008",455000,Single family residence,3,2334,72,36,62
+729,71,"1323 Ella Pl, Houston, TX 77008",439900,Single family residence,3,2433,50,35,47
+730,0,"2414 Colton Hollow Dr, Houston, TX 77067",205000,Single family residence,3,1454,14,0,30
+731,54,"2710 Hullsmith Dr 1303, Houston, TX 77063",259900,Townhouse,2,1501,75,51,48
+733,77,"2674 Sailboat Dr, Houston, TX 77058",389000,Townhouse,3,2855,23,0,36
+734,85,"5437 Larkin St, Houston, TX 77007",460000,Townhouse,3,1917,69,41,52
+740,77,"17824 Kings Park Ln, Houston, TX 77058",180000,Townhouse,2,1350,36,26,50
+741,39,"6200 W Tidwell Rd APT 305, Houston, TX 77092",65000,Townhouse,2,1133,30,37,35
+742,54,"3951 Tanglewilde St, Houston, TX 77063",149900,Townhouse,2,1341,71,47,57
+744,85,"3814 Center St, Houston, TX 77007",402000,Townhouse,3,1524,75,46,66
+745,58,"12220 Beamer Rd, Houston, TX 77089",179000,Townhouse,2,1318,47,28,40
+747,0,"5747 Easthampton Dr UNIT D, Houston, TX 77039",115000,Townhouse,3,1511,31,33,43
+748,54,"5630 Fairdale Ln APT 1, Houston, TX 77057",318000,Townhouse,3,2226,80,51,50
+749,85,"6036 Kansas St, Houston, TX 77007",474900,Townhouse,3,2022,29,39,37
+750,0,"17108 Beaver Springs Dr 8, Houston, TX 77090",168000,Townhouse,2,1440,77,34,50
+751,78,"1215 Marconi St A, Houston, TX 77019",515000,Townhouse,3,2358,78,42,66
+752,56,"3415 Robin Rose Ln, Houston, TX 77080",425000,Townhouse,3,1922,3,32,28
+753,34,"10501 South Dr APT 298, Houston, TX 77099",78000,Townhouse,1,768,40,30,37
+756,39,"6200 W Tidwell Rd APT 1305, Houston, TX 77092",114000,Townhouse,2,1134,30,37,35
+757,34,"8507 Wilcrest Dr, Houston, TX 77099",135000,Townhouse,2,1428,53,45,42
+758,54,"9460 Briar Forest Dr, Houston, TX 77063",550000,Townhouse,3,2059,38,34,39
+759,0,"7903 Bachwood Dr, Houston, TX 77040",305000,Townhouse,3,2332,47,0,41
+760,68,"11506 Village Place Dr 106, Houston, TX 77077",225000,Townhouse,2,1812,69,48,51
+762,78,"1004 La Rue St, Houston, TX 77019",396000,Townhouse,2,1931,88,51,67
+764,85,"1309 Bingham St UNIT A, Houston, TX 77007",390000,Townhouse,3,2177,66,65,81
+765,34,"7238 S Dairy Ashford Rd, Houston, TX 77072",194700,Townhouse,3,1824,32,40,35
+766,78,"1340 Fairview Ave, Houston, TX 77006",495000,Townhouse,2,2768,92,52,73
+768,60,"10762 Craighead Dr, Houston, TX 77025",420000,Townhouse,3,2050,28,37,38
+769,76,"5524 Beverlyhill St APT 1, Houston, TX 77056",219000,Townhouse,2,1300,79,53,48
+770,88,"2418 Dorrington St SUITE B, Houston, TX 77030",430000,Townhouse,2,2195,77,63,77
+771,34,"8536 Dairy View Ln, Houston, TX 77072",185000,Townhouse,3,1566,42,41,43
+773,20,"8723 Bryam St, Houston, TX 77061",254900,Townhouse,3,2025,33,36,34
+774,69,"2823 Albany St, Houston, TX 77006",497900,Townhouse,3,2591,91,71,69
+775,63,"2533 Calumet St, Houston, TX 77004",410000,Townhouse,3,2060,60,48,78
+776,14,"9117 Imogene St 117, Houston, TX 77036",120000,Townhouse,2,980,50,45,41
+777,28,"215 Riley Ln, Houston, TX 77003",380000,Townhouse,3,2039,67,69,76
+778,19,"7018 Woodridge Square Dr, Houston, TX 77087",234900,Townhouse,2,1448,74,34,51
+779,54,"8800 Woodway Dr APT 8, Houston, TX 77063",849500,Townhouse,3,5450,48,46,44
+780,67,"2818 Capitol St, Houston, TX 77003",435000,Townhouse,3,2185,62,64,83
+781,82,"727 Bunker Hill Rd APT 104, Houston, TX 77024",500000,Townhouse,4,2632,41,31,56
+782,34,"12984 Greenway Chase Ct 2984, Houston, TX 77072",165900,Townhouse,2,1803,61,38,47
+783,78,"606 W Pierce St, Houston, TX 77019",524000,Townhouse,3,2717,85,56,66
+785,70,"2865 Westhollow Dr UNIT 107, Houston, TX 77082",290000,Townhouse,4,2583,39,38,38
+787,44,"7575 Cambridge St APT 1703, Houston, TX 77054",162000,Townhouse,1,1192,40,51,66
+788,67,"721 Delano St, Houston, TX 77003",489500,Townhouse,3,2811,62,64,83
+790,78,"1614 Norfolk St APT B, Houston, TX 77006",679900,Townhouse,3,2822,83,52,64
+791,76,"2601 Augusta Dr APT 13, Houston, TX 77057",219000,Townhouse,2,1254,83,49,50
+792,88,"5914 Kirby Dr, Houston, TX 77005",675000,Townhouse,3,2385,88,46,72
+793,82,"13070 Trail Hollow Dr 7, Houston, TX 77079",299999,Townhouse,4,2274,57,34,46
+794,34,"3972 Belle Park Dr, Houston, TX 77072",139000,Townhouse,2,1380,29,27,38
+795,48,"9850 Pagewood Ln APT 107, Houston, TX 77042",179800,Townhouse,2,1520,59,49,53
+796,0,"14422 Mooreview Ln, Houston, TX 77014",217000,Townhouse,3,1522,51,29,40
+797,48,"2911 Meadowglen Crst, Houston, TX 77082",297000,Townhouse,4,2328,59,47,45
+798,82,"201 Vanderpool Ln APT 137, Houston, TX 77024",729900,Townhouse,3,3726,49,41,32
+799,78,"3300 Taft St UNIT B, Houston, TX 77006",605000,Townhouse,3,3150,90,65,77
+800,76,"2513 Potomac Dr UNIT B, Houston, TX 77057",580000,Townhouse,3,2126,74,50,59
+801,82,"727 Bunker Hill Rd APT 112, Houston, TX 77024",315000,Townhouse,3,2016,41,31,56
+802,54,"5615 Winsome Ln UNIT C, Houston, TX 77057",469000,Townhouse,4,2996,74,51,51
+803,82,"15600 Barkers Landing Rd APT 12, Houston, TX 77079",650000,Townhouse,3,3411,38,27,60
+805,76,"48 Milan Ests, Houston, TX 77056",560000,Townhouse,3,2494,80,53,58
+807,78,"1614-1614 Norfolk St A, Houston, TX 77006",819000,Townhouse,3,3337,83,52,64
+808,0,"8314 Lamond Ln, Houston, TX 77095",242000,Townhouse,3,1637,29,0,36
+809,34,"7834 Windward Passage St, Houston, TX 77072",195000,Townhouse,4,1412,23,41,32
+810,39,"6200 W Tidwell Rd APT 2103, Houston, TX 77092",70000,Townhouse,2,1133,30,37,35
+811,69,"506 Anita St, Houston, TX 77006",899900,Townhouse,2,2921,92,74,70
+813,76,"5917 Valley Forge Dr APT C, Houston, TX 77057",525000,Townhouse,3,2800,66,38,52
+814,76,"5807 Valley Forge Dr 97, Houston, TX 77057",500000,Townhouse,3,1722,65,39,51
+815,76,"2206 Potomac Dr C, Houston, TX 77057",550000,Townhouse,3,2581,75,44,50
+816,76,"8638 Oakford Dr, Houston, TX 77024",679990,Townhouse,3,3011,35,56,49
+817,68,"456 Wilcrest Dr, Houston, TX 77042",229000,Townhouse,2,1740,19,29,50
+818,85,"6514 Minola St, Houston, TX 77007",850000,Townhouse,4,3244,55,39,50
+819,79,"1608 W Webster St UNIT B, Houston, TX 77019",575000,Townhouse,3,2674,85,70,64
+820,82,"144 Sugarberry Cir, Houston, TX 77024",549000,Townhouse,3,3030,19,32,25
+821,30,"7414 Mount St, Houston, TX 77088",230000,Townhouse,3,1669,30,41,39
+822,82,"201 Vanderpool Ln APT 124, Houston, TX 77024",553900,Townhouse,4,2760,49,41,32
+823,79,"2020 Mason St, Houston, TX 77006",495000,Townhouse,3,2193,87,67,68
+824,78,"542 Bomar St, Houston, TX 77006",525000,Townhouse,3,2280,87,57,69
+825,79,"17 Robita St, Houston, TX 77019",749000,Townhouse,3,3298,70,60,78
+826,54,"1716 S Gessner Rd, Houston, TX 77063",323000,Townhouse,2,2002,44,43,47
+827,63,"2012 Rosedale St APT B, Houston, TX 77004",499000,Townhouse,3,2982,73,58,65
+828,68,"2100 Wilcrest Dr APT 132, Houston, TX 77042",138000,Townhouse,2,1200,62,42,62
+829,78,"605 W Polk St A, Houston, TX 77019",546186,Townhouse,3,2494,84,54,62
+830,30,"7410 Mount St, Houston, TX 77088",230000,Townhouse,3,1669,30,41,39
+832,34,"7267 Cook Rd, Houston, TX 77072",145000,Townhouse,2,992,48,39,40
+833,82,"9031 Briar Forest Dr, Houston, TX 77024",570000,Townhouse,3,2684,19,34,16
+834,72,"603-603 Link Rd G, Houston, TX 77009",409900,Townhouse,3,1805,72,55,80
+838,76,"5000 Longmont Dr APT 9, Houston, TX 77056",875000,Townhouse,3,3053,69,45,53
+839,30,"2626 W Tidwell Rd B, Houston, TX 77091",339000,Townhouse,3,1642,9,30,30
+840,54,"5907 Winsome Ln E, Houston, TX 77057",855000,Townhouse,3,3108,85,50,64
+841,22,"4101 Maggie St 8, Houston, TX 77051",350000,Townhouse,3,1780,50,45,50
+842,22,"4101 Maggie St 6, Houston, TX 77051",350000,Townhouse,3,1780,50,45,50
+844,76,"1917 Potomac Dr UNIT C, Houston, TX 77057",825000,Townhouse,3,3556,75,35,50
+845,85,"4216 Spencer St, Houston, TX 77007",545000,Townhouse,3,2001,78,48,66
+847,66,"1701 Upland Dr APT 150, Houston, TX 77043",1000000,Townhouse,2,1210,25,29,48
+848,66,"1701 Upland Dr APT 148, Houston, TX 77043",1000000,Townhouse,2,1210,25,29,48
+850,68,"638 Wilcrest Dr, Houston, TX 77042",247000,Townhouse,2,1740,40,28,50
+851,70,"13687 Garden Grove Ct, Houston, TX 77082",260000,Townhouse,3,2079,26,35,37
+852,44,"8055 Cambridge St APT 35, Houston, TX 77054",145000,Townhouse,2,888,46,49,87
+853,34,"12255 Sharpview Dr 205, Houston, TX 77072",150000,Townhouse,3,1136,55,38,42
+855,35,"6122 W Airport Blvd, Houston, TX 77035",158000,Townhouse,2,1296,19,40,43
+857,34,"11000 Kinghurst Dr UNIT 106, Houston, TX 77099",68950,Townhouse,2,1008,31,26,45
+858,76,"2421 Potomac Dr UNIT C, Houston, TX 77057",435000,Townhouse,3,2113,74,50,59
+859,85,"2209 Sandman St, Houston, TX 77007",449000,Townhouse,3,2452,73,39,68
+861,39,"5625 Antoine Dr 309, Houston, TX 77092",64900,Townhouse,2,1131,58,40,49
+862,44,"7901 Cambridge St APT 23, Houston, TX 77054",125000,Townhouse,1,627,40,50,86
+863,86,"3433 Westheimer Rd PENTHOUSE 19W, Houston, TX 77027",6900000,Condominium,4,6200,69,48,48
+864,76,"5150 Hidalgo St UNIT 304, Houston, TX 77056",310000,Condominium,2,1427,76,54,50
+865,6,"9350 Country Creek Dr APT 50, Houston, TX 77036",64500,Townhouse,1,684,71,42,48
+866,34,"9797 Leawood Blvd APT 705, Houston, TX 77099",89900,Townhouse,2,1068,66,39,41
+867,6,"10211 Sugar Branch Dr APT 410, Houston, TX 77036",100000,Townhouse,2,1002,46,43,42
+868,76,"909 Silber Rd APT 24D, Houston, TX 77024",110000,Townhouse,1,594,56,50,49
+869,35,"8100 Creekbend Dr APT 161, Houston, TX 77071",69000,Townhouse,2,937,37,41,41
+870,78,"101 Stratford St APT 207, Houston, TX 77006",186500,Townhouse,2,868,91,73,69
+871,76,"2001 Bering Dr APT 15G, Houston, TX 77057",165000,Townhouse,1,957,55,45,48
+872,76,"1409 Post Oak Blvd UNIT 2204, Houston, TX 77056",1199500,Condominium,3,2826,87,48,50
+873,16,"17230 Imperial Valley Dr APT 70, Houston, TX 77060",105000,Townhouse,2,1276,62,53,68
+874,35,"8100 Creekbend Dr APT 101, Houston, TX 77071",89000,Townhouse,3,1182,37,41,41
+875,76,"3350 McCue Rd APT 1002, Houston, TX 77056",399000,Condominium,2,1955,64,54,45
+876,82,"781 Country Place Dr APT 1019, Houston, TX 77079",135000,Townhouse,3,1764,79,27,50
+877,39,"5625 Antoine Dr APT 606, Houston, TX 77091",49995,Townhouse,1,725,58,40,49
+879,79,"1717 W Webster St UNIT E, Houston, TX 77019",675000,Townhouse,3,2719,87,66,66
+880,76,"3505 Sage Rd UNIT 602, Houston, TX 77056",350000,Condominium,2,1357,64,55,47
+881,86,"5200 Weslayan St APT A314, Houston, TX 77005",239000,Townhouse,2,1080,83,45,64
+882,88,"2400 N Braeswood Blvd APT 109, Houston, TX 77030",259000,Townhouse,2,2264,73,56,88
+883,85,"4336 Center St, Houston, TX 77007",380000,Townhouse,3,1942,77,49,58
+884,66,"1403 Blalock Rd APT 1, Houston, TX 77055",139900,Townhouse,2,1276,67,35,67
+885,44,"2300 Old Spanish Trl APT 2083, Houston, TX 77054",159900,Townhouse,1,907,50,49,63
+886,54,"2230 S Piney Point Rd APT 221, Houston, TX 77063",140000,Townhouse,1,611,39,46,36
+887,82,"12633 Memorial Dr APT 131, Houston, TX 77024",229000,Townhouse,3,1152,32,37,35
+888,67,"2205 McKinney St APT 403, Houston, TX 77003",199000,Condominium,1,789,82,88,70
+889,72,"4200 Watson St APT 201, Houston, TX 77009",200000,Townhouse,1,663,72,49,57
+891,0,"16800 Sugar Pine Dr APT D28, Houston, TX 77090",149000,Townhouse,2,1476,48,32,41
+895,68,"11201 Lynbrook Dr APT 3508, Houston, TX 77042",149500,Townhouse,2,1108,53,35,57
+896,44,"8055 Cambridge St APT 63, Houston, TX 77054",137700,Townhouse,2,975,46,49,87
+897,76,"7555 Katy Fwy APT 135, Houston, TX 77024",156000,Townhouse,1,925,38,58,45
+899,69,"2216 Chenevert St UNIT 11, Houston, TX 77003",254900,Townhouse,2,1517,73,73,63
+900,20,"8100 Leonora St APT N5, Houston, TX 77061",70000,Townhouse,2,1431,66,49,56
+902,76,"5001 Woodway Dr UNIT 404, Houston, TX 77056",600000,Condominium,3,1924,48,44,47
+903,48,"10001 Westpark Dr APT 67, Houston, TX 77042",109995,Townhouse,2,1052,81,47,54
+904,76,"1111 Bering Dr UNIT 1303A, Houston, TX 77057",549000,Condominium,3,3494,72,38,63
+905,76,"7555 Katy Fwy APT 136, Houston, TX 77024",145000,Townhouse,1,1018,38,58,45
+906,54,"1921 Stoney Brook Dr, Houston, TX 77063",289990,Townhouse,3,2044,73,36,50
+907,69,"2000 Bagby St APT 9413, Houston, TX 77002",300000,Condominium,1,1346,89,83,56
+908,81,"3809 N Braeswood Blvd APT 14, Houston, TX 77025",175000,Townhouse,2,1216,55,42,73
+909,14,"6161 Reims Rd APT 920, Houston, TX 77036",90000,Townhouse,2,876,64,45,51
+910,86,"2929 Buffalo Speedway A108, Houston, TX 77098",399000,Condominium,2,2834,85,53,52
+911,0,"14777 Wunderlich Dr APT 708, Houston, TX 77069",145000,Townhouse,1,1055,29,18,35
+912,39,"8034 Antoine Dr APT 130, Houston, TX 77088",72995,Townhouse,2,1002,41,35,39
+913,67,"1211 Caroline St 808, Houston, TX 77002",459900,Townhouse,2,989,90,88,64
+914,82,"515 Tallowood Rd UNIT 63, Houston, TX 77024",285000,Townhouse,3,1440,61,43,51
+915,14,"6500 Harbor Town Dr APT 3106, Houston, TX 77036",120000,Townhouse,2,1108,27,49,42
+916,78,"3231 Allen Pkwy APT 1106, Houston, TX 77019",218900,Townhouse,1,580,81,53,92
+917,76,"1111 Bering Dr UNIT 1102, Houston, TX 77057",314999,Condominium,2,1452,66,40,54
+918,50,"2814 S Bartell Dr APT 211, Houston, TX 77054",74900,Townhouse,1,700,52,35,45
+919,78,"811 Lovett Blvd APT 12, Houston, TX 77006",345000,Townhouse,2,1275,93,60,77
+920,15,"201 W Rosamond St APT 3, Houston, TX 77076",99000,Townhouse,2,864,51,41,37
+921,86,"3302 Audley St SUITE 122, Houston, TX 77098",399000,Townhouse,2,1608,86,54,56
+922,68,"1409 Chardonnay Dr, Houston, TX 77077",150000,Townhouse,3,1941,23,32,54
+923,34,"10555 Turtlewood Ct UNIT 1907, Houston, TX 77072",145000,Townhouse,2,946,46,43,60
+924,78,"1010 Rosine St APT 306, Houston, TX 77019",330000,Condominium,2,1300,86,52,76
+925,68,"1515 Sandy Springs Rd 2801, Houston, TX 77042",139900,Townhouse,1,893,58,32,57
+926,69,"2216 Chenevert St UNIT 9, Houston, TX 77003",234995,Townhouse,2,1655,73,73,63
+927,76,"2300 Augusta Dr APT 15, Houston, TX 77057",175000,Townhouse,2,1028,82,47,50
+928,84,"2111 Welch St APT A211, Houston, TX 77019",337900,Townhouse,2,1252,79,48,60
+930,82,"515 Tallowood Rd UNIT 51, Houston, TX 77024",309000,Townhouse,3,1440,61,43,51
+931,44,"2626 Holly Hall St APT 506, Houston, TX 77054",91000,Townhouse,1,664,52,41,73
+932,50,"2826 S Bartell Dr APT 34, Houston, TX 77054",87500,Townhouse,2,825,59,38,46
+934,84,"2200 Willowick Rd UNIT 10K, Houston, TX 77027",325000,Condominium,1,1025,74,46,50
+935,75,"2001 Holcombe Blvd UNIT 3505, Houston, TX 77030",525000,Condominium,2,1250,47,59,88
+936,48,"3075 Walnut Bend Ln APT 38, Houston, TX 77042",95000,Townhouse,2,765,60,48,46
+937,76,"3525 Sage Rd APT 802, Houston, TX 77056",177990,Condominium,1,794,61,55,47
+938,72,"2520 Houston Ave 602A, Houston, TX 77009",849000,Condominium,2,1793,64,55,66
+939,87,"1701 Hermann Dr 34L, Houston, TX 77004",1119000,Condominium,3,2082,56,61,72
+940,69,"2700 Albany St APT 2C, Houston, TX 77006",350000,Condominium,1,800,89,71,67
+941,67,"705 Main St UNIT 303, Houston, TX 77002",205000,Condominium,1,784,99,88,64
+942,54,"2800 Jeanetta St APT 704, Houston, TX 77063",92500,Townhouse,1,640,52,51,47
+943,44,"2121 Hepburn St APT 719, Houston, TX 77054",97900,Townhouse,1,680,45,44,75
+944,76,"3525 Sage Rd APT 616, Houston, TX 77056",230000,Condominium,2,1095,61,55,47
+945,54,"9568 Windswept Ln, Houston, TX 77063",157000,Townhouse,3,1402,66,48,44
+946,76,"5005 Hidalgo St UNIT 602, Houston, TX 77056",1195000,Condominium,3,3308,78,54,60
+947,76,"1901 Post Oak Blvd APT 3406, Houston, TX 77056",249900,Condominium,1,982,89,52,50
+948,76,"1100 Uptown Park Blvd UNIT 244, Houston, TX 77056",2200000,Condominium,3,4885,66,46,49
+950,39,"6200 W Tidwell Rd APT 402, Houston, TX 77092",80000,Townhouse,2,1133,30,37,35
+951,86,"5220 Weslayan St, Houston, TX 77005",226750,Townhouse,2,1080,83,45,64
+952,86,"15 Greenway Plz UNIT 6C, Houston, TX 77046",370000,Condominium,2,1262,82,46,57
+953,44,"3218 Holly Hall St 3218, Houston, TX 77054",198000,Townhouse,2,1600,37,39,58
+954,76,"3525 Sage Rd APT 318, Houston, TX 77056",175000,Condominium,1,776,61,55,47
+955,34,"9700 Leawood Blvd 8/807, Houston, TX 77099",75000,Townhouse,1,776,62,39,41
+956,34,"8405 Wilcrest Dr APT 1603, Houston, TX 77072",70000,Condominium,2,834,43,44,41
+957,76,"2625 Marilee Ln APT 2, Houston, TX 77057",139900,Townhouse,2,916,69,50,50
+958,64,"6804 Westview Dr 2408, Houston, TX 77055",449771,Condominium,2,1702,54,41,54
+959,14,"9400 Bellaire Blvd UNIT 203, Houston, TX 77036",228800,Townhouse,2,1062,79,44,63
+960,76,"1409 Post Oak Blvd UNIT 2301, Houston, TX 77056",1550000,Condominium,4,3079,87,48,50
+961,67,"1111 Caroline St APT 2814, Houston, TX 77010",450000,Condominium,1,972,91,100,77
+962,76,"5150 Hidalgo St UNIT 1004, Houston, TX 77056",350000,Condominium,2,1427,76,54,50
+963,84,"2200 Willowick Rd UNIT 11F, Houston, TX 77027",369000,Condominium,1,1025,74,46,50
+964,35,"12500 Sandpiper Dr APT 34, Houston, TX 77035",75000,Townhouse,2,966,49,41,43
+965,34,"9700 Leawood Blvd APT 1411, Houston, TX 77099",96500,Townhouse,2,1068,62,39,41
+966,44,"2300 Old Spanish Trl APT 2066, Houston, TX 77054",155000,Townhouse,1,838,50,49,63
+967,39,"6200 W Tidwell Rd APT 2708, Houston, TX 77092",83000,Townhouse,3,1373,30,37,35
+968,76,"3388 Sage Rd UNIT 902, Houston, TX 77056",650000,Condominium,3,2155,69,55,50
+969,54,"5801 Winsome Ln UNIT 202, Houston, TX 77057",244000,Townhouse,1,1317,83,51,50
+970,63,"5925 Almeda Rd UNIT 12908, Houston, TX 77004",649000,Condominium,3,1836,66,52,69
+971,76,"3505 Sage Rd UNIT 2309, Houston, TX 77056",346300,Condominium,2,1422,64,55,47
+972,76,"5532 Beverlyhill St APT 2, Houston, TX 77056",275000,Townhouse,2,1428,79,53,48
+973,76,"4950 Woodway Dr UNIT 406, Houston, TX 77056",395000,Condominium,2,2031,45,43,46
+974,76,"5150 Hidalgo St UNIT 904, Houston, TX 77056",325000,Condominium,2,1427,76,54,50
+975,76,"1901 S Voss Rd APT 33, Houston, TX 77057",210000,Townhouse,2,1156,82,33,50
+977,64,"6804 Westview Dr 1403, Houston, TX 77055",430860,Condominium,2,1869,54,41,54
+978,54,"3600 Jeanetta St APT 105, Houston, TX 77063",180000,Townhouse,2,1036,68,42,53
+979,76,"1901 Post Oak Blvd APT 508, Houston, TX 77056",354900,Condominium,1,1137,89,52,50
+980,76,"3505 Sage Rd UNIT 102, Houston, TX 77056",289900,Condominium,2,1357,64,55,47
+981,86,"2727 Kirby Dr APT 16C, Houston, TX 77098",1300000,Condominium,2,1835,93,53,57
+982,86,"2727 Kirby Dr 18I, Houston, TX 77098",3500000,Condominium,3,4427,93,53,57
+983,34,"6955 Turtlewood Dr 515, Houston, TX 77072",346500,Townhouse,2,918,59,41,67
+984,64,"6804 Westview Dr 1301, Houston, TX 77055",410196,Condominium,2,1702,54,41,54
+985,76,"3525 Sage Rd APT 1110, Houston, TX 77056",239000,Condominium,2,1095,61,55,47
+986,52,"7134 Mapleridge St UNIT 3E, Houston, TX 77081",268000,Condominium,2,1379,81,51,53
+987,34,"9700 Leawood Blvd 1/104, Houston, TX 77099",73500,Townhouse,1,776,62,39,41
+988,44,"1711 Old Spanish Trl APT 335, Houston, TX 77054",285000,Condominium,2,1293,67,69,69
+989,76,"5150 Hidalgo St UNIT 405, Houston, TX 77056",399000,Condominium,2,1449,76,54,50
+990,76,"3525 Sage Rd APT 716, Houston, TX 77056",245000,Condominium,2,1095,61,55,47
+991,64,"6804 Westview Dr 1305, Houston, TX 77055",412963,Condominium,2,1529,54,41,54
+992,76,"1409 Post Oak Blvd 1304, Houston, TX 77056",1235000,Condominium,3,2826,87,48,50
+993,15,"201 W Rosamond St APT 25, Houston, TX 77076",99000,Townhouse,1,864,51,41,37
+994,76,"1600 Post Oak Blvd UNIT 1302, Houston, TX 77056",614900,Condominium,2,1502,90,49,50
+995,76,"3350 McCue Rd 702, Houston, TX 77056",379000,Condominium,2,1955,64,54,45
+996,86,"15 Greenway Plz UNIT 11F, Houston, TX 77046",395000,Condominium,2,1681,82,46,57
+997,84,"49 Briar Hollow Ln UNIT 206, Houston, TX 77027",639000,Condominium,2,1753,58,34,56
+998,34,"6955 Turtlewood Dr 105, Houston, TX 77072",378000,Condominium,2,1210,59,41,67
+999,14,"9400 Bellaire Blvd UNIT 205, Houston, TX 77036",229900,Townhouse,2,1062,79,44,63
+1000,15,"201 W Rosamond St APT 55, Houston, TX 77076",99000,Townhouse,1,864,51,41,37
+1001,15,"201 W Rosamond St APT 13, Houston, TX 77076",151200,Townhouse,3,1320,51,41,37
+1002,76,"3525 Sage Rd APT 606, Houston, TX 77056",172000,Condominium,1,834,61,55,47
+1003,76,"3525 Sage Rd APT 607, Houston, TX 77056",183000,Condominium,1,834,61,55,47
+1005,84,"2240 Mimosa Dr PENTHOUSE 8E, Houston, TX 77019",4950000,Condominium,3,3464,70,48,56
+1006,86,"2710 Steel St 605, Houston, TX 77098",2250000,Condominium,2,2702,92,53,57
+1007,76,"5001 Woodway Dr UNIT 606, Houston, TX 77056",475000,Condominium,2,1534,48,44,47
+1008,84,"2240 Mimosa Dr 5E, Houston, TX 77019",3080000,Condominium,3,3204,70,48,56
+1009,84,"2323 San Felipe St 1001, Houston, TX 77019",2300000,Condominium,3,3014,70,48,56
+1010,76,"5656 San Felipe St 505, Houston, TX 77056",1695000,Condominium,3,2166,72,42,57
+1011,48,"3100 Walnut Bend Ln APT 124, Houston, TX 77042",118000,Townhouse,1,1012,53,47,47
+1012,69,"2016 Main St 2601, Houston, TX 77002",399900,Condominium,3,3885,91,84,64
+1013,39,"5625 Antoine Dr 1203, Houston, TX 77092",79000,Townhouse,2,1025,58,40,49
+1014,44,"7901 Cambridge St APT 92, Houston, TX 77054",125000,Townhouse,1,627,40,50,86
+1015,35,"8100 Creekbend Dr APT 175, Houston, TX 77071",75000,Townhouse,2,937,37,41,41
+1017,44,"2750 Holly Hall St APT 1408, Houston, TX 77054",135000,Townhouse,2,952,39,38,60
+1018,0,"16800 Sugar Pine Dr APT F45, Houston, TX 77090",120000,Townhouse,2,1074,48,32,41
+1019,82,"832 Wax Myrtle Ln, Houston, TX 77079",295000,Townhouse,4,2274,63,28,52
+243,28,"316 N Stiles St, Houston, TX 77011",390000,Duplex,3,1953,50,50,50
+251,82,"14859 Perthshire Rd, Houston, TX 77079",575000,Single family residence,4,2762,50,50,50
+254,86,"4006 Essex Ln, Houston, TX 77027",3595000,Single family residence,5,5300,50,50,50
+256,62,"903 Lehman St B, Houston, TX 77018",434900,Single family residence,3,1857,50,50,50
+258,32,"1135 Cimarron St, Houston, TX 77015",169900,Single family residence,3,2011,50,50,50
+265,77,"1418 Amber Knoll Ct, Houston, TX 77062",299900,Single family residence,3,1948,50,50,50
+275,80,"4702 Rolling View Ct, Kingwood, TX 77345",349900,Single family residence,4,3029,50,50,50
+277,60,"11202 Waxwing St, Houston, TX 77035",395000,Duplex,2,2396,50,50,50
+283,37,"150 Hohldale St, Houston, TX 77022",360000,Quadruplex,6,2822,50,50,50
+284,26,"3307 Broadway St 1, Houston, TX 77017",500000,Multi family,10,4192,50,50,50
+294,15,"1724 Chapman St, Houston, TX 77009",259000,Duplex,3,1410,50,50,50
+303,78,"1235 W Gray St, Houston, TX 77019",685000,Quadruplex,1,2738,50,50,50
+307,13,"2521 Sadler St, Houston, TX 77093",350000,Multi family,3,936,50,50,50
+315,63,"3551 Ozark St, Houston, TX 77021",750000,Duplex,--,3538,50,50,50
+317,28,"213 Super St, Houston, TX 77011",850000,Multi family,2,3000,50,50,50
+327,15,"1905 Chapman St, Houston, TX 77009",650000,Triplex,4,1410,50,50,50
+328,78,"4316 Jack St, Houston, TX 77006",850000,Duplex,2,2300,50,50,50
+345,34,"4270 Belle Park Dr, Houston, TX 77072",140000,Townhouse,3,1500,50,50,50
+352,72,"834 E 29th St, Houston, TX 77009",479000,Single family residence,3,2026,50,50,50
+357,72,"912 Northwood St, Houston, TX 77009",599000,Single family residence,3,2296,50,50,50
+362,41,"14535 County Cress Dr, Houston, TX 77047",240000,Single family residence,3,2244,50,50,50
+365,30,"933 Marcolin St, Houston, TX 77088",269900,Single family residence,3,1750,50,50,50
+371,85,"806 W Heights Hollow Ln, Houston, TX 77007",299000,Townhouse,2,1240,50,50,50
+375,7,"2906 Brackenridge St, Houston, TX 77026",175000,Single family residence,4,1600,50,50,50
+381,67,"2816 Leeland St, Houston, TX 77003",385000,Townhouse,3,1752,50,50,50
+387,82,"12106 Attlee Dr, Houston, TX 77077",460000,Single family residence,4,2712,50,50,50
+395,44,"6965 Ardmore St, Houston, TX 77054",319900,Townhouse,3,1915,50,50,50
+402,63,"3110 Arbor St, Houston, TX 77004",330000,Single family residence,2,1624,50,50,50
+418,43,"12410 Skyview Star Ct, Houston, TX 77047",299000,Single family residence,3,2271,50,50,50
+424,70,"1542 Ainsdale Dr, Houston, TX 77077",315000,Single family residence,3,1739,50,50,50
+430,84,"2218 Del Monte Dr, Houston, TX 77019",4199999,Single family residence,5,6722,50,50,50
+431,22,"7902 Parnell St B, Houston, TX 77051",314900,Single family residence,3,1966,50,50,50
+435,80,"1922 Hidden Creek Dr, Humble, TX 77339",412500,Single family residence,5,2867,50,50,50
+436,85,"2209 Arabelle St A, Houston, TX 77007",485000,Single family residence,3,2279,50,50,50
+437,31,"2327 Saint Emanuel St, Houston, TX 77004",545000,Single family residence,4,2800,50,50,50
+440,34,"7825 Pacific Pearl St, Houston, TX 77072",195000,Townhouse,3,1504,50,50,50
+446,33,"8410 Elrod St, Houston, TX 77017",232000,Duplex,6,1890,50,50,50
+450,62,"814 Fisher St, Houston, TX 77018",549500,Duplex,4,2064,50,50,50
+455,78,"3305 W Lamar St C, Houston, TX 77019",449000,Townhouse,3,2485,50,50,50
+460,72,"2124 Carter St, Houston, TX 77008",300000,Single family residence,1,563,50,50,50
+461,84,"3920 Inverness Dr, Houston, TX 77019",12999000,Single family residence,6,11248,50,50,50
+463,63,"6125 Gehring St, Houston, TX 77021",319900,Townhouse,2,2041,50,50,50
+465,34,"8606 Dairy View Ln, Houston, TX 77072",169900,Townhouse,3,1566,50,50,50
+467,34,"10946 Bexley Dr 946, Houston, TX 77099",186666,Duplex,3,1517,50,50,50
+468,63,"3028 Prospect St, Houston, TX 77004",325000,Single family residence,3,2292,50,50,50
+480,77,"1122 Baymeadow Dr, Houston, TX 77062",275000,Single family residence,4,2086,50,50,50
+489,43,"5151 Denoron Dr, Houston, TX 77048",189500,Single family residence,3,1102,50,50,50
+496,15,"522 Lindale St, Houston, TX 77022",165000,Single family residence,3,900,50,50,50
+504,72,"1609 W 15th St, Houston, TX 77008",524999,Single family residence,3,2240,50,50,50
+507,0,"16714 Southern Oaks Dr, Houston, TX 77068",2000000,Single family residence,4,8754,50,50,50
+512,77,"955 Reseda Dr, Houston, TX 77062",247800,Single family residence,3,1652,50,50,50
+523,22,"4646 Larkspur St, Houston, TX 77051",379000,Single family residence,4,2507,50,50,50
+529,0,"14919 James River Ln, Houston, TX 77084",259000,Single family residence,3,1975,50,50,50
+535,88,"2317 Wroxton Rd, Houston, TX 77005",770000,Single family residence,3,1857,50,50,50
+538,77,"14410 Providence Pine Trl, Houston, TX 77062",323000,Single family residence,4,2146,50,50,50
+542,76,"503 Timber Terrace Rd, Houston, TX 77024",1799000,Single family residence,4,4628,50,50,50
+544,72,"340 W 17th St, Houston, TX 77008",1295000,Single family residence,3,2622,50,50,50
+552,87,"1842 Palm St, Houston, TX 77004",414990,Single family residence,4,2607,50,50,50
+553,63,"2444 Charleston St UNIT C, Houston, TX 77021",509000,Single family residence,3,2436,50,50,50
+555,71,"919 Shirkmere Rd, Houston, TX 77008",1379900,Single family residence,4,3974,50,50,50
+558,34,"11342 Oakcenter Dr, Houston, TX 77072",200000,Single family residence,3,1523,50,50,50
+560,43,"11903 Edgar St, Houston, TX 77047",105900,Ranch,3,1466,50,50,50
+565,45,"14022 White Heather Dr, Houston, TX 77045",189900,Single family residence,3,1480,50,50,50
+570,80,"2811 Creek Manor Dr, Humble, TX 77339",315000,Single family residence,4,2212,50,50,50
+579,0,"13802 Hambleton Dr, Houston, TX 77069",462000,Single family residence,4,3074,50,50,50
+581,0,"14907 Arvonshire Ct, Houston, TX 77049",399000,Single family residence,5,3395,50,50,50
+611,68,"10107 Burgoyne Rd, Houston, TX 77042",649900,Single family residence,3,2121,50,50,50
+617,55,"5715 Lycomb Dr, Houston, TX 77053",196000,Single family residence,3,1070,50,50,50
+626,80,"2143 River Village Dr, Humble, TX 77339",249000,Single family residence,3,1512,50,50,50
+632,15,"106 Robmore St, Houston, TX 77076",295000,Single family residence,4,1650,50,50,50
+634,34,"12111 Creekhurst Dr, Houston, TX 77099",299000,Single family residence,3,2309,50,50,50
+635,17,"4212 Old Spanish Trl, Houston, TX 77021",324900,Single family residence,3,1921,50,50,50
+636,62,"901 Lehman St B, Houston, TX 77018",434900,Single family residence,3,1857,50,50,50
+639,85,"809 Knox St, Houston, TX 77007",775000,Single family residence,4,3205,50,50,50
+651,77,"14244 Oak Chase Dr, Houston, TX 77062",287000,Single family residence,3,1540,50,50,50
+656,61,"10706 Carlota Ct, Houston, TX 77096",448880,Ranch,3,1800,50,50,50
+672,72,"412 W 26th St, Houston, TX 77008",874900,Single family residence,5,3328,50,50,50
+674,78,"204 Stratford St, Houston, TX 77006",1400000,Single family residence,5,3409,50,50,50
+683,76,"5338 Hidalgo St, Houston, TX 77056",619999,Single family residence,3,3014,50,50,50
+693,88,"2507 Shakespeare St C, Houston, TX 77030",897000,Single family residence,3,2353,50,50,50
+700,37,"328 E 39th St, Houston, TX 77018",575000,Single family residence,3,2133,50,50,50
+717,72,"917 W 17th St UNIT C, Houston, TX 77008",435000,Single family residence,3,2258,50,50,50
+721,70,"3515 Shadowwalk Dr, Houston, TX 77082",400000,Single family residence,4,2767,50,50,50
+727,72,"903 Walton St, Houston, TX 77009",590000,Single family residence,3,2036,50,50,50
+732,53,"2296 Shadowdale Dr 307, Houston, TX 77043",234900,Townhouse,3,2138,50,50,50
+735,54,"6014 Fairdale Ln, Houston, TX 77057",350000,Townhouse,3,2159,50,50,50
+736,78,"3415 Stanford St, Houston, TX 77006",489000,Townhouse,3,2059,50,50,50
+737,82,"620 N Eldridge Pkwy 10, Houston, TX 77079",348000,Townhouse,2,2398,50,50,50
+739,31,"2307 Berry St, Houston, TX 77004",475000,Townhouse,3,2306,50,50,50
+743,85,"2514 Maxroy St, Houston, TX 77007",399000,Townhouse,3,2367,50,50,50
+746,66,"1421 Springrock Ln 6, Houston, TX 77055",159000,Townhouse,2,1024,50,50,50
+754,27,"5821 Sampley Way, Houston, TX 77092",185000,Townhouse,2,1568,50,50,50
+755,58,"11946 Ramla Place Trl, Houston, TX 77089",240000,Townhouse,3,1435,50,50,50
+761,35,"10600 S Gessner Dr 24, Houston, TX 77031",84999,Townhouse,2,1064,50,50,50
+763,76,"626 Augusta Dr 626, Houston, TX 77057",335000,Townhouse,2,1560,50,50,50
+767,76,"722 Augusta Dr, Houston, TX 77057",285000,Townhouse,3,1702,50,50,50
+772,82,"14146 Misty Meadow Ln, Houston, TX 77079",310000,Townhouse,3,1936,50,50,50
+784,69,"2911 Helena St, Houston, TX 77006",635000,Townhouse,3,2761,50,50,50
+786,34,"7797 Cook Rd, Houston, TX 77072",129900,Townhouse,2,1024,50,50,50
+789,78,"1122 Columbus St, Houston, TX 77019",439999,Townhouse,3,2197,50,50,50
+804,85,"1809 Hickory St, Houston, TX 77007",465000,Townhouse,3,2472,50,50,50
+806,76,"5857 Valley Forge Dr 110, Houston, TX 77057",389000,Townhouse,3,1872,50,50,50
+831,76,"5634 San Felipe St, Houston, TX 77056",1200000,Townhouse,3,4147,50,50,50
+849,80,"2808 Elm Grove Ct, Humble, TX 77339",205000,Townhouse,3,1408,50,50,50
+854,68,"666 Wilcrest Dr, Houston, TX 77042",179999,Townhouse,2,1740,50,50,50
+856,68,"1347 Chardonnay Dr, Houston, TX 77077",267000,Townhouse,3,2068,50,50,50
+860,38,"8327 Nairn St, Houston, TX 77074",122000,Townhouse,3,2250,50,50,50
+878,78,"3600 Montrose Blvd 103/202, Houston, TX 77006",329000,Condominium,2,1480,50,50,50
+890,68,"11623 Lakeside Park Dr 72, Houston, TX 77077",175000,Townhouse,2,1812,50,50,50
+892,50,"8515 Hearth Dr APT 6, Houston, TX 77054",110000,Townhouse,2,1092,50,50,50
+893,68,"12550 Whittington Dr 4/408, Houston, TX 77077",99500,Townhouse,2,975,50,50,50
+929,38,"7828 Rue Carre St 31, Houston, TX 77074",159000,Townhouse,3,1247,50,50,50
+933,68,"2110 Wilcrest Dr APT 145, Houston, TX 77042",105000,Townhouse,1,780,50,50,50
+949,50,"2816 S Bartell Dr APT 5, Houston, TX 77054",112999,Townhouse,2,825,50,50,50
+1004,84,"2240 Mimosa Dr PENTHOUSE 7W, Houston, TX 77019",4495000,Condominium,3,4346,50,50,50
+1016,14,"8787 Brae Acres Rd APT 824, Houston, TX 77074",115000,Townhouse,2,1090,50,50,50
