@@ -46,7 +46,7 @@ Team members are connected via Slack within a group chat, and in addition to dai
 ## Technologies
 We will use PostgreSQL to set up our database. From here our ML model will be able to take in data and predict prices.
 
-## Presentation
+## Presentation 
 
 Link to our Google Slides Presentation:
 
