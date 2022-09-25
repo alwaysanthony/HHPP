@@ -27,11 +27,11 @@ The remainder of the data will be gathered by scraping the Zillow listings websi
 
 The placing of these properties into their respective super neighborhoods will be accomplished through a pipeline which utilizes GIS representations of Super Neighborhood boundaries from the 2010 census, which upon checking, is still relevant and accurate to their contemporary states (https://koordinates.com/layer/12942-houston-texas-census-by-super-neighborhood-2010/)
 
-## Questions we can answer
+## Questions We Can Answer
 
 With this data, we will be able to determine which input factors are most correlated/impactful vis-a-vis final property price, as well as which locales and property characteristics are ideal for purchasing a new property in Houston, TX.
 
-## Group members
+## Group Members
 
 - Ashle Mercer
 - Anthony Nguyen
@@ -45,3 +45,9 @@ Team members are connected via Slack within a group chat, and in addition to dai
 
 ## Technologies
 We will use PostgreSQL to set up our database. From here our ML model will be able to take in data and predict prices.
+
+## Presentation 
+
+Link to our Google Slides Presentation:
+
+https://docs.google.com/presentation/d/1cdkoQS5zwdwTWxeuK_wTwghmi5nbepGc9ujuVGhdKTY/edit?usp=sharing
