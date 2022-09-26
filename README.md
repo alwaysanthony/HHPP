@@ -1,6 +1,6 @@
 # Houston House Price Prediction
 
-## Topic
+## Topic 
 
 We've chosen to analyze and construct a predictive model for housing prices in Houston, TX (MFU/SFU), as well as determining and describing the relationship between the final price and its various input factors.
 
