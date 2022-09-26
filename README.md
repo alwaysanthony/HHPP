@@ -33,7 +33,7 @@ With this data, we will be able to determine which input factors are most correl
 
 ## Group Members
 
-- Ashle Mercer
+- Ashlē Mercer
 - Anthony Nguyen
 - Henry Hawgood
 - Jose Espinosa-Tello
