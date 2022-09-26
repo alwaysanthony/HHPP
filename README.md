@@ -6,7 +6,7 @@ We've chosen to analyze and construct a predictive model for housing prices in H
 
 Given the broad public consensus regarding the instability of the Housing market nationwide, we've chosen this topic in order to determine potentially causal trends and correlations betweeen property metacharacteristics, and to help inform the decision making process for a group member currently seeking to purchase a property in Houston.  
 
-## Data
+## Data 
 
 The data we will be performing analysis on, and which we will use as ML model inputs will consist of the following fields:
 
