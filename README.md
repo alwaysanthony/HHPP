@@ -4,7 +4,7 @@
 
 We've chosen to analyze and construct a predictive model for housing prices in Houston, TX (MFU/SFU), as well as determining and describing the relationship between the final price and its various input factors.
 
-Given the broad public consensus regarding the instability of the Housing market nationwide, we've chosen this topic in order to determine potentially causal trends and correlations betweeen property metacharacteristics, and to help inform the decision making process for a group member currently seeking to purchase a property in Houston. 
+Given the broad public consensus regarding the instability of the Housing market nationwide, we've chosen this topic in order to determine potentially causal trends and correlations betweeen property metacharacteristics, and to help inform the decision making process for a group member currently seeking to purchase a property in Houston.  
 
 ## Data
 
