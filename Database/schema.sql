@@ -10,15 +10,7 @@ total_population varchar,
 median_household_income varchar 
 );
 
-select *
-from houston_super_neighborhoods
 
-
-#delete all rows from table
-Delete From houston_super_neighborhoods
-
-#drop table if needed
-DROP TABLE properties
 
 #add new properties table
 
@@ -43,12 +35,32 @@ walk int,
 transit int,
 
 bike int,
+	
+zipcode int,
 
 FOREIGN KEY (super_id) REFERENCES houston_super_neighborhoods (id)
 );
 
-#Select statment that Joins both tables
-Select p.super_id,  h.name, h.total_population, h.median_household_income, p.address, p.price, p.type, p.bed, p.sqft, p.walk, p.transit, p.bike
+# Possibly needed queries
+select *
+from houston_super_neighborhoods
+
+
+#delete all rows from table
+Delete From houston_super_neighborhoods
+
+#drop table if needed
+DROP TABLE properties
+
+# Select statment that Joins both tables
+Select p.id, p.super_id,  h.name, h.total_population, h.median_household_income, p.address, p.price, p.type, p.bed, p.sqft, p.walk, p.transit, p.bike, p.zipcode
 from properties as p inner join houston_super_neighborhoods as h
 on p.super_id = h.id
 order by p.price asc
+
+
+#create new table using select statment
+create table super_properties as
+Select p.id, p.super_id,  h.name, h.total_population, h.median_household_income, p.address, p.price, p.type, p.bed, p.sqft, p.walk, p.transit, p.bike, p.zipcode
+from properties as p inner join houston_super_neighborhoods as h
+on p.super_id = h.id
