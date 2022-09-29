@@ -51,3 +51,8 @@ We will use PostgreSQL to set up our database. From here our ML model will be ab
 Link to our Google Slides Presentation:
 
 https://docs.google.com/presentation/d/1cdkoQS5zwdwTWxeuK_wTwghmi5nbepGc9ujuVGhdKTY/edit?usp=sharing
+
+## Dashboard 
+
+Link to our Dashboard:
+https://public.tableau.com/views/HHPPFinalProject/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
