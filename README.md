@@ -26,7 +26,7 @@ The remainder of the data will be gathered by scraping the Zillow listings websi
 
 The placing of these properties into their respective super neighborhoods will be accomplished through a pipeline which utilizes GIS representations of Super Neighborhood boundaries from the 2010 census, which upon checking, is still relevant and accurate to their contemporary states (https://koordinates.com/layer/12942-houston-texas-census-by-super-neighborhood-2010/)
 
-![koordinates](https://github.com/alwaysanthony/HHPP/blob/Jose/Database/Resources/images/koordinates.png)
+![koordinates](https://github.com/alwaysanthony/HHPP/blob/main/Database/Resources/images/Koordinates.png)
 
 ## Questions We Can Answer
 
@@ -86,8 +86,15 @@ We used PostGreSQL and Amazon AWS RDS to create the database. This decision was 
 
 A fitted Linear regression model was used for the machine learning phase. The model was trained to roughly approximate a comparative price metric given property characteristics. 
 
+![ml](https://github.com/alwaysanthony/HHPP/blob/main/Machine%20Learning/images/ml.png)
 
+## Analysis and Conclusion
 
+There was not enough evidence to suggest any correlations or clear relationships. Property square footage and community affluence are the primary (but still extremely imprecise) indicators of price in the data we have collected, while “soft” factors such as walkability/accessibility are borderline unrelated.
+
+![cor](https://github.com/alwaysanthony/HHPP/blob/main/Machine%20Learning/images/cor.png)
+
+In the end the model cannot be used to predict exact housing prices, however it can be used to support purchasing decisions and other projects as the model can be used as a comparative metric between various input variables.
 
 ## Presentation 
 
