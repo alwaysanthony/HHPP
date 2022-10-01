@@ -12,9 +12,8 @@ The data we will be performing analysis on, and which we will use as ML model in
 
 - Super Neighborhood Median Household Income
 - Super Neighborhood Population
-- Square Footage
-- Number of Bedrooms
-- Single Family vs Multi-Family
+- Property Square Footage
+- Property Number of Bedrooms
 - Zillow Walk Score
 - Zillow Transit Score
 - Zillow Bike Score
@@ -26,7 +25,9 @@ as provided by Houston's city website (https://www.houstontx.gov/planning/Demogr
 The remainder of the data will be gathered by scraping the Zillow listings website for all relevant information. The scraping code is included in the repo.
 
 The placing of these properties into their respective super neighborhoods will be accomplished through a pipeline which utilizes GIS representations of Super Neighborhood boundaries from the 2010 census, which upon checking, is still relevant and accurate to their contemporary states (https://koordinates.com/layer/12942-houston-texas-census-by-super-neighborhood-2010/)
- 
+
+![koordinates](https://github.com/alwaysanthony/HHPP/blob/Jose/Database/Resources/images/koordinates.png)
+
 ## Questions We Can Answer
 
 With this data, we will be able to determine which input factors are most correlated/impactful vis-a-vis final property price, as well as which locales and property characteristics are ideal for purchasing a new property in Houston, TX.
@@ -44,7 +45,49 @@ With this data, we will be able to determine which input factors are most correl
 Team members are connected via Slack within a group chat, and in addition to daily updates on the status of each member's assigned project coverage, further meetings are arranged and prosecuted as issues, novel information or factors, and new objectives manifest.
 
 ## Technologies
-We will use PostgreSQL to set up our database. From here our ML model will be able to take in data and predict prices.
+
+###Languages
+
+- Python
+- SQL
+- Javascript
+
+### Technologies
+
+- Tableau
+
+Database:
+
+- PostgreSQL
+- pgAdmin
+- Amazon AWS
+- Google Colab
+- Spark
+
+Data Gathering and Machine Learning:
+
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- SQLAlchemy
+- Scikit-learn
+- Pathlib
+- BeautifulSoup
+- Selenium
+
+## Database
+
+We used PostGreSQL and Amazon AWS RDS to create the database. This decision was made to use a cloud based database as it allows the team members to access the data at all hours. A local database on a team members computer would limit this team as our work hours are very different. Google colab and spark were used to clean and upload the data. We created two tables from the data gathered and joined these to tables to creat a super_properties table. The super properties table allows us to acces all data from a single table during the machine learning process.
+
+![ERD](https://github.com/alwaysanthony/HHPP/blob/main/Database/ERD.png)
+
+## Machine Learning model
+
+A fitted Linear regression model was used for the machine learning phase. The model was trained to roughly approximate a comparative price metric given property characteristics. 
+
+
+
 
 ## Presentation 
 
@@ -56,3 +99,4 @@ https://docs.google.com/presentation/d/1cdkoQS5zwdwTWxeuK_wTwghmi5nbepGc9ujuVGhd
 
 Link to our Dashboard:
 https://public.tableau.com/views/HHPPFinalProject/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
