@@ -46,7 +46,7 @@ Team members are connected via Slack within a group chat, and in addition to dai
 
 ## Technologies
 
-###Languages
+### Languages
 
 - Python
 - SQL
